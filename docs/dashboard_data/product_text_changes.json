@@ -41,11 +41,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -257,11 +257,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -377,11 +377,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -497,8 +497,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -565,6 +565,18 @@
   },
   {
     "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.290001,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": "other",
@@ -605,11 +617,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -725,11 +737,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -845,11 +857,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -965,11 +977,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1181,11 +1193,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1301,11 +1313,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1421,11 +1433,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1637,11 +1649,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1757,11 +1769,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1958,6 +1970,66 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": "other",
+    "duration_display": "1天",
+    "current_price": 1.19,
+    "current_promotion_text": "≈1.19/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 12.95,
+    "current_promotion_text": "≈0.43/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 95.949995,
+    "current_promotion_text": "≈0.26/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 7,
+    "duration_display": "7天",
+    "current_price": 4.95,
+    "current_promotion_text": "≈0.71/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 35.949999,
+    "current_promotion_text": "≈0.40/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
     "config": "KVIP / A12 / 8 cores / 6GB / 80GB",
     "duration_bucket": "other",
     "duration_display": "1天",
@@ -2714,6 +2786,66 @@
   {
     "platform": "Redfinger",
     "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "1天",
+    "current_price": 0.99,
+    "current_promotion_text": "≈0.99/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 10.95,
+    "current_promotion_text": "≈0.37/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 79.950002,
+    "current_promotion_text": "≈0.22/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 7,
+    "duration_display": "7天",
+    "current_price": 3.95,
+    "current_promotion_text": "≈0.56/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 29.949999,
+    "current_promotion_text": "≈0.33/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
     "config": "VIP / A15 / 8 cores / 4GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "1天",
@@ -2982,9 +3114,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.29,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -2994,9 +3126,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3006,10 +3138,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 39.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3017,11 +3149,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
-    "current_promotion_text": "48H SAVE $10; activity",
+    "current_price": 7.99,
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3030,10 +3162,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 79.990005,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3041,11 +3173,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.69,
-    "current_promotion_text": "48H SAVE $3+; activity",
+    "current_price": 2.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3053,11 +3185,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 19.989999,
-    "current_promotion_text": "💖Family Day Deals 50% OFF; activity",
+    "current_price": 25.989999,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3066,9 +3198,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.29,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3078,9 +3210,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3090,10 +3222,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 39.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3101,11 +3233,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
-    "current_promotion_text": "48H SAVE $10; activity",
+    "current_price": 7.99,
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3114,10 +3246,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 82.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3125,11 +3257,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.69,
-    "current_promotion_text": "48H SAVE $3+; activity",
+    "current_price": 2.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3137,11 +3269,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 19.989999,
-    "current_promotion_text": "💖Family Day Deals 50% OFF; activity",
+    "current_price": 25.989999,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3150,9 +3282,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.29,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3162,9 +3294,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3174,10 +3306,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 45.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3186,10 +3318,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 7.99,
-    "current_promotion_text": "新用户专享五折，限购一台; activity",
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3198,10 +3330,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 82.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3210,10 +3342,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3222,7 +3354,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 28.989999,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3234,7 +3366,7 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 50% off for a limited time; activity",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -3246,9 +3378,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3258,10 +3390,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 56.989998,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3269,11 +3401,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
-    "current_promotion_text": "48H SAVE $10; activity",
+    "current_price": 11.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3282,10 +3414,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 82.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3293,11 +3425,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "48H SAVE $3+; activity",
+    "current_price": 4.29,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3305,11 +3437,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 29.990001,
-    "current_promotion_text": "💖Family Day Deals 50% OFF; activity",
+    "current_price": 32.990001,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3318,9 +3450,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3330,9 +3462,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3342,10 +3474,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 56.989998,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3353,11 +3485,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
-    "current_promotion_text": "48H SAVE $10; activity",
+    "current_price": 11.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3366,10 +3498,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 82.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3377,11 +3509,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "48H SAVE $3+; activity",
+    "current_price": 4.29,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3390,7 +3522,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 32.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3402,9 +3534,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3414,9 +3546,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3426,10 +3558,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 56.989998,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3438,7 +3570,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 11.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3450,10 +3582,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 82.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3462,10 +3594,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 4.29,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3474,7 +3606,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 32.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3486,9 +3618,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 2.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3498,9 +3630,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 12.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3510,10 +3642,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 85.990002,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3521,11 +3653,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 14.99,
-    "current_promotion_text": "💖Family Day Deals 40% OFF; activity",
+    "current_price": 17.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3534,10 +3666,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 150.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3546,10 +3678,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3557,11 +3689,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 43.989999,
-    "current_promotion_text": "💖Family Day Deals 50% OFF; activity",
+    "current_price": 50.990001,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3570,9 +3702,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 2.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3582,9 +3714,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 12.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3594,10 +3726,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 85.990002,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3606,10 +3738,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 17.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3630,10 +3762,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3642,10 +3774,10 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 50.990001,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3654,9 +3786,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 2.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3666,9 +3798,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 12.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3678,10 +3810,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 129.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3689,11 +3821,11 @@
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 22.99,
-    "current_promotion_text": "💖Family Day Deals 40% OFF; activity",
+    "current_price": 23.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3702,10 +3834,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 249.989996,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3714,10 +3846,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3726,7 +3858,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 69.99,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3738,9 +3870,9 @@
     "duration_bucket": "other",
     "duration_display": "1天",
     "current_price": 1.19,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3750,9 +3882,9 @@
     "duration_bucket": "other",
     "duration_display": "15天",
     "current_price": 5.29,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -3762,10 +3894,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 37.990002,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3774,7 +3906,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 6.99,
-    "current_promotion_text": "新用户专享五折，限购一台; activity",
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 🔥Labor Day Sale: -40%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3786,10 +3918,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 74.990004,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3798,10 +3930,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.69,
-    "current_promotion_text": "限时7.5折优惠; activity",
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3809,11 +3941,11 @@
     "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 18.99,
-    "current_promotion_text": "💖Family Day Deals 50% OFF; activity",
+    "current_price": 22.989999,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "VSPhone",

@@ -1,11 +1,11 @@
 [
   {
     "platform": "UgPhone",
-    "status": "blocked",
+    "status": "partial",
     "raw_records": 301,
-    "product_rows": 112,
+    "product_rows": 99,
     "baseline_rows": 107,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 8
   },
   {
     "platform": "VSPhone",
@@ -18,16 +18,16 @@
   {
     "platform": "Redfinger",
     "status": "partial",
-    "raw_records": 167,
-    "product_rows": 47,
+    "raw_records": 197,
+    "product_rows": 57,
     "baseline_rows": 70,
-    "missing_vs_baseline": 23
+    "missing_vs_baseline": 13
   },
   {
     "platform": "LDCloud",
     "status": "ok",
-    "raw_records": 445,
-    "product_rows": 181,
+    "raw_records": 543,
+    "product_rows": 219,
     "baseline_rows": 175,
     "missing_vs_baseline": 0
   }
