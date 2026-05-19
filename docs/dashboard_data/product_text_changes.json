@@ -45,7 +45,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -261,7 +261,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -381,7 +381,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -621,7 +621,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -741,7 +741,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -861,7 +861,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -981,7 +981,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1197,7 +1197,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1317,7 +1317,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1437,7 +1437,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1653,7 +1653,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1773,7 +1773,7 @@
     "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -3153,7 +3153,7 @@
     "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3177,7 +3177,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3189,7 +3189,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3237,7 +3237,7 @@
     "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3261,7 +3261,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3273,7 +3273,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3405,7 +3405,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3429,7 +3429,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3441,7 +3441,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3489,7 +3489,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3513,7 +3513,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3657,7 +3657,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3693,7 +3693,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3825,7 +3825,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3945,7 +3945,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
