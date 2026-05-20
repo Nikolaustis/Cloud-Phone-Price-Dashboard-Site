@@ -18,16 +18,16 @@
   {
     "platform": "Redfinger",
     "status": "partial",
-    "raw_records": 197,
-    "product_rows": 57,
+    "raw_records": 182,
+    "product_rows": 52,
     "baseline_rows": 70,
-    "missing_vs_baseline": 13
+    "missing_vs_baseline": 18
   },
   {
     "platform": "LDCloud",
     "status": "ok",
-    "raw_records": 543,
-    "product_rows": 217,
+    "raw_records": 506,
+    "product_rows": 184,
     "baseline_rows": 175,
     "missing_vs_baseline": 0
   }
