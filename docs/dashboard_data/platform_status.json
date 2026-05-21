@@ -9,25 +9,25 @@
   },
   {
     "platform": "VSPhone",
-    "status": "ok",
-    "raw_records": 2028,
-    "product_rows": 169,
+    "status": "partial",
+    "raw_records": 1968,
+    "product_rows": 164,
     "baseline_rows": 169,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 5
   },
   {
     "platform": "Redfinger",
     "status": "partial",
-    "raw_records": 182,
-    "product_rows": 52,
+    "raw_records": 197,
+    "product_rows": 57,
     "baseline_rows": 70,
-    "missing_vs_baseline": 18
+    "missing_vs_baseline": 13
   },
   {
     "platform": "LDCloud",
     "status": "ok",
     "raw_records": 506,
-    "product_rows": 184,
+    "product_rows": 212,
     "baseline_rows": 175,
     "missing_vs_baseline": 0
   }

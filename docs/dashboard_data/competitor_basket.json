@@ -134,7 +134,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3460; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3460; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 158.666667
@@ -154,7 +154,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 158.666667
@@ -174,7 +174,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 158.666667
@@ -314,7 +314,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -334,7 +334,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=2690; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=2690; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -354,7 +354,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -494,7 +494,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -514,7 +514,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=2690; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=2690; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -534,7 +534,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=3547; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 91.67198
@@ -674,7 +674,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3671; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3671; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.200992
@@ -694,7 +694,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=3587; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=3587; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.200992
@@ -714,7 +714,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1900; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.200992
@@ -854,7 +854,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -874,7 +874,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -894,7 +894,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1034,7 +1034,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1054,7 +1054,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1074,7 +1074,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1214,7 +1214,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1234,7 +1234,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1254,7 +1254,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=3458; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 88.802196
@@ -1394,7 +1394,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1414,7 +1414,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2684; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2684; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1434,7 +1434,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4966; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4966; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1574,7 +1574,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1594,7 +1594,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2684; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2684; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1614,7 +1614,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4966; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4966; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 262.442911
@@ -1754,7 +1754,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=4992; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=4992; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 126.537817
@@ -1774,7 +1774,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=5003; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=5003; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 126.537817
@@ -1794,7 +1794,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=1896; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 126.537817
@@ -1934,7 +1934,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1895; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=54; productId=1895; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 240.641846
@@ -1954,7 +1954,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2682; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=2682; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 240.641846
@@ -1974,7 +1974,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4992; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=54; productId=4992; area_code=sg; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 240.641846
@@ -2554,7 +2554,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 77.214455
@@ -2734,7 +2734,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 77.214455
@@ -5274,7 +5274,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 65.75618
@@ -5454,7 +5454,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 65.75618
@@ -7234,7 +7234,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_competitor_higher; ram_competitor_lower; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=VIP; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 79.637814
@@ -8814,7 +8814,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 74.301149
@@ -9354,7 +9354,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 117.251256
@@ -9534,7 +9534,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 117.251256
@@ -9714,7 +9714,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 117.660649
@@ -9894,7 +9894,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 101.454131
@@ -9985,16 +9985,16 @@
     "duration_days": 1,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 35.7,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 29.448991,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 30.568887,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 172.162095
@@ -10005,7 +10005,7 @@
     "duration_days": 1,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 35.7,
     "quality_adjustment_factor": 0.824902,
     "quality_adjusted_price_30d": 29.448991,
@@ -10014,7 +10014,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 172.162095
@@ -10165,16 +10165,16 @@
     "duration_days": 7,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 21.214286,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 17.499701,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 18.165185,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 105.063018
@@ -10185,7 +10185,7 @@
     "duration_days": 7,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 21.214286,
     "quality_adjustment_factor": 0.824902,
     "quality_adjusted_price_30d": 17.499701,
@@ -10194,7 +10194,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 105.063018
@@ -10345,16 +10345,16 @@
     "duration_days": 15,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
-    "raw_effective_price_30d": 35.7,
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
+    "raw_effective_price_30d": 21.214286,
     "quality_adjustment_factor": 0.856271,
-    "quality_adjusted_price_30d": 30.568887,
+    "quality_adjusted_price_30d": 18.165185,
     "config_similarity_score": 71.85,
     "comparability_level": "weak_match",
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 73.410216
@@ -10366,15 +10366,15 @@
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
     "competitor_config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
-    "raw_effective_price_30d": 12.95,
+    "raw_effective_price_30d": 35.7,
     "quality_adjustment_factor": 0.856271,
-    "quality_adjusted_price_30d": 11.088714,
+    "quality_adjusted_price_30d": 30.568887,
     "config_similarity_score": 71.85,
     "comparability_level": "weak_match",
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 73.410216
@@ -10414,7 +10414,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 73.410216
@@ -10457,7 +10457,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10477,7 +10477,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10497,7 +10497,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10517,7 +10517,7 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10537,7 +10537,7 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10545,19 +10545,19 @@
     "duration_days": 30,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 12.95,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 10.682477,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 11.088714,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10577,7 +10577,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10597,7 +10597,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10617,7 +10617,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10637,7 +10637,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10657,7 +10657,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10677,7 +10677,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10697,7 +10697,7 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10717,7 +10717,7 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10725,19 +10725,19 @@
     "duration_days": 30,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 12.95,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 10.682477,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 11.088714,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10757,7 +10757,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10777,7 +10777,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d",
@@ -10797,7 +10797,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 112.239886
+    "ugphone_relative_index": 108.127958
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d",
@@ -10885,16 +10885,16 @@
     "duration_days": 90,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 11.983333,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 9.885072,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 10.260985,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -10905,7 +10905,7 @@
     "duration_days": 90,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 11.983333,
     "quality_adjustment_factor": 0.824902,
     "quality_adjusted_price_30d": 9.885072,
@@ -10914,7 +10914,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -10954,7 +10954,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -11065,16 +11065,16 @@
     "duration_days": 90,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 11.983333,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 9.885072,
-    "config_similarity_score": 75.85,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 10.260985,
+    "config_similarity_score": 80.85,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -11085,7 +11085,7 @@
     "duration_days": 90,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
+    "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
     "raw_effective_price_30d": 11.983333,
     "quality_adjustment_factor": 0.824902,
     "quality_adjusted_price_30d": 9.885072,
@@ -11094,7 +11094,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -11134,7 +11134,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 113.779724
@@ -11245,16 +11245,16 @@
     "duration_days": 180,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
-    "raw_effective_price_30d": 12.95,
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
+    "raw_effective_price_30d": 11.983333,
     "quality_adjustment_factor": 0.856271,
-    "quality_adjusted_price_30d": 11.088714,
+    "quality_adjusted_price_30d": 10.260985,
     "config_similarity_score": 71.85,
     "comparability_level": "weak_match",
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 118.939589
@@ -11266,9 +11266,9 @@
     "competitor_platform": "Redfinger",
     "competitor_product_model": "KVIP",
     "competitor_config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
-    "raw_effective_price_30d": 10.95,
+    "raw_effective_price_30d": 12.95,
     "quality_adjustment_factor": 0.856271,
-    "quality_adjusted_price_30d": 9.376171,
+    "quality_adjusted_price_30d": 11.088714,
     "config_similarity_score": 71.85,
     "comparability_level": "weak_match",
     "included_in_core_median": false,
@@ -11314,7 +11314,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 118.939589
@@ -11357,7 +11357,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11377,7 +11377,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11397,7 +11397,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=SVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11417,7 +11417,27 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
+  },
+  {
+    "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
+    "ug_config": "KVIP / Android 12 / 6 cores / 5.3GB / 64GB",
+    "duration_days": 365,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "KVIP",
+    "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
+    "raw_effective_price_30d": 7.886301,
+    "quality_adjustment_factor": 0.856271,
+    "quality_adjusted_price_30d": 6.752814,
+    "config_similarity_score": 80.85,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=29; source_product_name=K12｜365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11437,27 +11457,7 @@
     "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
-  },
-  {
-    "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
-    "ug_config": "KVIP / Android 12 / 6 cores / 5.3GB / 64GB",
-    "duration_days": 365,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "KVIP",
-    "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
-    "raw_effective_price_30d": 7.886301,
-    "quality_adjustment_factor": 0.824902,
-    "quality_adjusted_price_30d": 6.505423,
-    "config_similarity_score": 75.85,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=16; goodsClassifyId=63; source_product_name=K12｜365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11477,7 +11477,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11494,10 +11494,10 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
@@ -11517,7 +11517,7 @@
     "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5005; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 104.852459
+    "ugphone_relative_index": 101.011164
   },
   {
     "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb__1d",
@@ -11654,7 +11654,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3462; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3462; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 192.270695
@@ -11874,7 +11874,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3462; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3462; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 115.084443
@@ -12014,7 +12014,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3592; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "below_market",
     "ugphone_relative_index": 81.273371
@@ -12194,7 +12194,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3465; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3465; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 119.600777
@@ -12214,7 +12214,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3465; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3465; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 119.600777
@@ -12374,7 +12374,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 139.712405
@@ -12394,7 +12394,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=4971; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=4971; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 139.712405
@@ -12554,7 +12554,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 108.134281
@@ -12574,7 +12574,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 108.134281
@@ -12594,7 +12594,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=4971; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=4971; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 108.134281
@@ -12734,7 +12734,7 @@
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; productId=3084; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 116.298421
@@ -12754,7 +12754,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=5007; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 116.298421
@@ -12774,7 +12774,7 @@
     "included_in_core_median": false,
     "exclusion_reason": "weak_match_not_in_core_median",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=th; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_over_30pct; api_price_list; area_code=sg; cardType=19; productId=3082; area_code=hk; area_code=kr; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 116.298421
