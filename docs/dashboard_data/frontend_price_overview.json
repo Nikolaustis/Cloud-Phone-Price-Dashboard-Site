@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T02:05:04+00:00",
+  "updated_at": "2026-05-25T02:05:12+00:00",
   "baseline_config_count": 10,
   "core_duration_buckets": [
     7,
@@ -172,7 +172,7 @@
           "product_model": "VIP",
           "config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
           "current_price": 20.990001,
-          "config_similarity_score": 81.43,
+          "config_similarity_score": 80,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
@@ -666,7 +666,7 @@
           "product_model": "VIP",
           "config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
           "current_price": 76.989998,
-          "config_similarity_score": 81.43,
+          "config_similarity_score": 80,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",

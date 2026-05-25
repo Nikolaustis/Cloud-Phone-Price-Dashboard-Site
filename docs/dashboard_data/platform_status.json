@@ -26,9 +26,9 @@
   {
     "platform": "LDCloud",
     "status": "partial",
-    "raw_records": 408,
-    "product_rows": 165,
+    "raw_records": 400,
+    "product_rows": 150,
     "baseline_rows": 175,
-    "missing_vs_baseline": 10
+    "missing_vs_baseline": 25
   }
 ]
