@@ -29,12 +29,12 @@
         "平台": "VSPhone",
         "基准商品数": 160,
         "本次匹配商品数": 155,
-        "价格未变": 155,
+        "价格未变": 150,
         "降价": 0,
-        "涨价": 0,
+        "涨价": 5,
         "本次价格缺失": 5,
         "基准价格缺失": 0,
-        "促销关键词": 93
+        "促销关键词": 155
       },
       {
         "平台": "Redfinger",
@@ -50,11 +50,11 @@
       {
         "平台": "LDCloud",
         "基准商品数": 144,
-        "本次匹配商品数": 106,
-        "价格未变": 106,
+        "本次匹配商品数": 100,
+        "价格未变": 100,
         "降价": 0,
         "涨价": 0,
-        "本次价格缺失": 38,
+        "本次价格缺失": 44,
         "基准价格缺失": 0,
         "促销关键词": 24
       }
@@ -62,7 +62,7 @@
   },
   {
     "sheet": "变化明细",
-    "rows": 276,
+    "rows": 344,
     "columns": [
       "监测状态",
       "是否发现活动价",
@@ -246,7 +246,7 @@
         "本次活动文案": "180 days-May Promo; You Save: $33.95(44%); 五月180天特价：34.99、43.99、62.99、109.99",
         "促销关键词提醒": "promo",
         "基准行数": 1,
-        "本次匹配行数": 1,
+        "本次匹配行数": 2,
         "商品身份键": "ldcloud|cloud_phone|cloud phone|kvip|kvip14|14|6 cores|8gb|41gb|day|180 day",
         "备注": "本次活动文案命中促销关键词: promo"
       }
@@ -516,7 +516,7 @@
         "配置相似度分": 80.9,
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
-        "活动文案": "Get 1 Extra Day for New Device",
+        "活动文案": "Limited Time Offer",
         "支持服务器地区": "Hong Kong; Thailand; Indonesia; Singapore; Vietnam; United States; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
@@ -537,7 +537,7 @@
         "配置相似度分": 75.9,
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
-        "活动文案": "Get 1 Extra Day for New Device",
+        "活动文案": "Limited Time Offer",
         "支持服务器地区": "Hong Kong; Thailand; Indonesia; Singapore; Vietnam; United States; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
@@ -558,7 +558,7 @@
         "配置相似度分": 75.9,
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
-        "活动文案": "Get 1 Extra Day for New Device",
+        "活动文案": "Limited Time Offer",
         "支持服务器地区": "Hong Kong; Thailand; Indonesia; Singapore; Vietnam; United States; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
