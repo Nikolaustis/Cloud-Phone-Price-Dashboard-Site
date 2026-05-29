@@ -9,11 +9,11 @@
   },
   {
     "platform": "VSPhone",
-    "status": "partial",
-    "raw_records": 1968,
-    "product_rows": 164,
+    "status": "ok",
+    "raw_records": 2028,
+    "product_rows": 169,
     "baseline_rows": 169,
-    "missing_vs_baseline": 5
+    "missing_vs_baseline": 0
   },
   {
     "platform": "Redfinger",
@@ -26,8 +26,8 @@
   {
     "platform": "LDCloud",
     "status": "ok",
-    "raw_records": 403,
-    "product_rows": 184,
+    "raw_records": 419,
+    "product_rows": 200,
     "baseline_rows": 175,
     "missing_vs_baseline": 0
   }

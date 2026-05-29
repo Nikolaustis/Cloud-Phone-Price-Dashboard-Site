@@ -34,10 +34,10 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "VIP",
         "competitor_config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
-        "config_similarity_score": 80,
+        "config_similarity_score": 82.5,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_no_overlap; duration_same",
+        "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
@@ -298,10 +298,10 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "KVIP",
         "competitor_config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
-        "config_similarity_score": 82.17,
+        "config_similarity_score": 79.17,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_within_15pct",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
