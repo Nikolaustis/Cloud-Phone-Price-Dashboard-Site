@@ -377,11 +377,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -497,8 +497,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -553,6 +553,18 @@
   },
   {
     "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.290001,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 15,
@@ -833,11 +845,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -953,8 +965,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1006,6 +1018,18 @@
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.790002,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "LDCloud",
@@ -1385,11 +1409,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1841,11 +1865,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1961,8 +1985,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -2014,6 +2038,18 @@
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.390001,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "Redfinger",
@@ -3353,11 +3389,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 25.989999,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 19.989999,
+    "current_promotion_text": "⚽️World Cup Deals 50% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3437,11 +3473,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 25.989999,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 19.989999,
+    "current_promotion_text": "⚽️World Cup Deals 50% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3521,11 +3557,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 28.989999,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 19.989999,
+    "current_promotion_text": "Kids' Day: -50%; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3569,11 +3605,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 11.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 9.99,
+    "current_promotion_text": "⚽️World Cup Deals 40% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3605,11 +3641,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 32.990001,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 29.990001,
+    "current_promotion_text": "⚽️World Cup Deals 50% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3653,11 +3689,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 11.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 9.99,
+    "current_promotion_text": "Kids' Day: -40%; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3689,11 +3725,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 32.990001,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 29.990001,
+    "current_promotion_text": "Kids' Day: -50%; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3737,11 +3773,11 @@
     "config": "KVIP / A13 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 11.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 9.99,
+    "current_promotion_text": "Kids' Day: -40%; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3773,11 +3809,11 @@
     "config": "KVIP / A13 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 32.990001,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 29.990001,
+    "current_promotion_text": "Kids' Day: -50%; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3821,11 +3857,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 17.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 14.99,
+    "current_promotion_text": "⚽️World Cup Deals 40% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3857,11 +3893,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 50.990001,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 43.989999,
+    "current_promotion_text": "⚽️World Cup Deals 50% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3905,11 +3941,11 @@
     "config": "MVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 17.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 14.99,
+    "current_promotion_text": "Kids' Day: -40%; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3941,11 +3977,11 @@
     "config": "MVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 50.990001,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 43.989999,
+    "current_promotion_text": "Kids' Day: -50%; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -3989,11 +4025,11 @@
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 23.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 22.99,
+    "current_promotion_text": "⚽️World Cup Deals 40% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -4025,11 +4061,11 @@
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 69.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 58.989999,
+    "current_promotion_text": "Kids' Day: -50%; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -4109,11 +4145,11 @@
     "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 22.989999,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 18.99,
+    "current_promotion_text": "⚽️World Cup Deals 50% OFF; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -50%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",

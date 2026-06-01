@@ -1,11 +1,11 @@
 [
   {
     "platform": "UgPhone",
-    "status": "partial",
+    "status": "ok",
     "raw_records": 301,
-    "product_rows": 99,
+    "product_rows": 114,
     "baseline_rows": 107,
-    "missing_vs_baseline": 8
+    "missing_vs_baseline": 0
   },
   {
     "platform": "VSPhone",
@@ -26,8 +26,8 @@
   {
     "platform": "LDCloud",
     "status": "ok",
-    "raw_records": 419,
-    "product_rows": 200,
+    "raw_records": 519,
+    "product_rows": 218,
     "baseline_rows": 175,
     "missing_vs_baseline": 0
   }
