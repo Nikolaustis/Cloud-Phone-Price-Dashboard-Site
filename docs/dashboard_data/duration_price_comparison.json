@@ -2929,17 +2929,17 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 9.99,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 11.99,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 5.3GB / 85GB",
             "current_price": 10.99,
-            "config_similarity_score": 90.05,
-            "comparability_level": "strong_match",
+            "config_similarity_score": 88.39,
+            "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
@@ -2958,7 +2958,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
             "current_price": 12.95,
-            "config_similarity_score": 78.85,
+            "config_similarity_score": 80.52,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2978,7 +2978,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
             "current_price": 12.99,
-            "config_similarity_score": 80,
+            "config_similarity_score": 83.33,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2995,12 +2995,12 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 77.142857,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 92.586873,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.2002,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -3018,16 +3018,16 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 9.99,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 11.99,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
             "product_model": "SVIP",
             "config": "SVIP / Android 13 / 8 cores / 5.3GB / 85GB",
             "current_price": 10.99,
-            "config_similarity_score": 87.05,
+            "config_similarity_score": 85.05,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3047,7 +3047,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
             "current_price": 12.95,
-            "config_similarity_score": 81.35,
+            "config_similarity_score": 80.85,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3067,7 +3067,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
             "current_price": 12.99,
-            "config_similarity_score": 85,
+            "config_similarity_score": 84,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3084,12 +3084,12 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 77.142857,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 92.586873,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.2002,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -3107,9 +3107,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 9.99,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 11.99,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3173,12 +3173,12 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 77.142857,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 92.586873,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.2002,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -3196,9 +3196,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 14.99,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 17.99,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3225,7 +3225,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 15.95,
-            "config_similarity_score": 90,
+            "config_similarity_score": 92.86,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3245,7 +3245,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 19.99,
-            "config_similarity_score": 84.06,
+            "config_similarity_score": 86.92,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3262,12 +3262,12 @@
           }
         },
         "competitor_median_price": 15.99,
-        "ugphone_relative_index": 93.746091,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 112.507817,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.200133,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -3285,9 +3285,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 14.99,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 17.99,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3351,12 +3351,12 @@
           }
         },
         "competitor_median_price": 15.99,
-        "ugphone_relative_index": 93.746091,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 112.507817,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.200133,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -3374,8 +3374,8 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 22.99,
-        "has_price_change": false,
+        "ugphone_price": 23.99,
+        "has_price_change": true,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3383,8 +3383,8 @@
             "product_model": "MVIP",
             "config": "MVIP / Android 10 / 8 cores / 16GB / 256GB",
             "current_price": 24.99,
-            "config_similarity_score": 87.2,
-            "comparability_level": "adjusted_match",
+            "config_similarity_score": 97.2,
+            "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
@@ -3401,9 +3401,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 12 / 8 cores / 16GB / 256GB",
             "current_price": 33.95,
-            "config_similarity_score": 87.2,
+            "config_similarity_score": 89.2,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3423,8 +3423,8 @@
             "product_model": "MVIP",
             "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
             "current_price": 39.99,
-            "config_similarity_score": 88.5,
-            "comparability_level": "adjusted_match",
+            "config_similarity_score": 93.5,
+            "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
@@ -3440,12 +3440,12 @@
           }
         },
         "competitor_median_price": 33.95,
-        "ugphone_relative_index": 67.717231,
+        "ugphone_relative_index": 70.662739,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": 0.043497,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       }
     ],
     "60": [],
@@ -3466,8 +3466,8 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 18.99,
-        "has_price_change": false,
+        "ugphone_price": 22.989999,
+        "has_price_change": true,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3475,7 +3475,7 @@
             "product_model": "Basic",
             "config": "Basic / Android 10 / 6 cores / 4GB / 32GB",
             "current_price": 11.679999,
-            "config_similarity_score": 77.33,
+            "config_similarity_score": 80.9,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3495,7 +3495,7 @@
             "product_model": "VIP",
             "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
-            "config_similarity_score": 67,
+            "config_similarity_score": 68.43,
             "comparability_level": "weak_match",
             "included_in_core_median": false,
             "exclusion_reason": "weak_match_not_in_core_median",
@@ -3515,7 +3515,7 @@
             "product_model": "VIP",
             "config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
             "current_price": 20.990001,
-            "config_similarity_score": 80,
+            "config_similarity_score": 81.43,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3532,12 +3532,12 @@
           }
         },
         "competitor_median_price": 16.335,
-        "ugphone_relative_index": 116.253444,
+        "ugphone_relative_index": 140.740735,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": 0.210637,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -3555,19 +3555,19 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 19.989999,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 25.989999,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
             "product_model": "VIP",
             "config": "VIP / Android 10 / 8 cores / 3.2GB / 50GB",
             "current_price": 15.99,
-            "config_similarity_score": 71.62,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 76.62,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "Limited Time Offer",
             "price_variant": "public_offer",
@@ -3620,13 +3620,13 @@
             "comparison_duration_note": ""
           }
         },
-        "competitor_median_price": 27.969999,
-        "ugphone_relative_index": 71.469431,
-        "market_position_label": "below_market",
+        "competitor_median_price": 25.989999,
+        "ugphone_relative_index": 100.0,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.450225,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -3644,9 +3644,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 19.989999,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 25.989999,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3673,7 +3673,7 @@
             "product_model": "VIP",
             "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
-            "config_similarity_score": 78,
+            "config_similarity_score": 83,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3693,8 +3693,8 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
             "current_price": 25.989999,
-            "config_similarity_score": 85.12,
-            "comparability_level": "adjusted_match",
+            "config_similarity_score": 90.12,
+            "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
@@ -3710,12 +3710,12 @@
           }
         },
         "competitor_median_price": 27.969999,
-        "ugphone_relative_index": 71.469431,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 92.920987,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.450225,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -3733,9 +3733,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 19.989999,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 28.989999,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3799,12 +3799,12 @@
           }
         },
         "competitor_median_price": 25.989999,
-        "ugphone_relative_index": 76.914197,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 111.542902,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.450225,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -3822,17 +3822,17 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 29.990001,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 32.990001,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 5.3GB / 85GB",
             "current_price": 26.990001,
-            "config_similarity_score": 90.05,
-            "comparability_level": "strong_match",
+            "config_similarity_score": 88.39,
+            "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
@@ -3851,7 +3851,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
             "current_price": 35.949999,
-            "config_similarity_score": 78.85,
+            "config_similarity_score": 80.52,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3871,7 +3871,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
             "current_price": 25.989999,
-            "config_similarity_score": 80,
+            "config_similarity_score": 83.33,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3888,12 +3888,12 @@
           }
         },
         "competitor_median_price": 26.990001,
-        "ugphone_relative_index": 111.115227,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 122.230455,
+        "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.100033,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -3911,16 +3911,16 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 29.990001,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 32.990001,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
             "product_model": "SVIP",
             "config": "SVIP / Android 13 / 8 cores / 5.3GB / 85GB",
             "current_price": 26.990001,
-            "config_similarity_score": 87.05,
+            "config_similarity_score": 85.05,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3940,7 +3940,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
             "current_price": 35.949999,
-            "config_similarity_score": 81.35,
+            "config_similarity_score": 80.85,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3960,7 +3960,7 @@
             "product_model": "KVIP",
             "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
             "current_price": 25.989999,
-            "config_similarity_score": 85,
+            "config_similarity_score": 84,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3977,12 +3977,12 @@
           }
         },
         "competitor_median_price": 26.990001,
-        "ugphone_relative_index": 111.115227,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 122.230455,
+        "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.100033,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -4000,9 +4000,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 29.990001,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 32.990001,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4066,12 +4066,12 @@
           }
         },
         "competitor_median_price": 26.990001,
-        "ugphone_relative_index": 111.115227,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 122.230455,
+        "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.100033,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -4089,9 +4089,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 43.989999,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 50.990001,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4118,7 +4118,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 45.950001,
-            "config_similarity_score": 90,
+            "config_similarity_score": 92.86,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -4138,7 +4138,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 39.99,
-            "config_similarity_score": 84.06,
+            "config_similarity_score": 86.92,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -4155,12 +4155,12 @@
           }
         },
         "competitor_median_price": 45.950001,
-        "ugphone_relative_index": 95.73449,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 110.968444,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.159127,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -4178,9 +4178,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 43.989999,
-        "has_price_change": false,
-        "promotion_text_changed": false,
+        "ugphone_price": 50.990001,
+        "has_price_change": true,
+        "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4244,12 +4244,12 @@
           }
         },
         "competitor_median_price": 45.950001,
-        "ugphone_relative_index": 95.73449,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 110.968444,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": 0.159127,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -4267,8 +4267,8 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 58.989999,
-        "has_price_change": false,
+        "ugphone_price": 69.99,
+        "has_price_change": true,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -4333,12 +4333,12 @@
           }
         },
         "competitor_median_price": 69.99,
-        "ugphone_relative_index": 84.283468,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 100.0,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": 0.186472,
+        "reason_code": "price_up",
+        "alert_level": "warning"
       }
     ],
     "180": [

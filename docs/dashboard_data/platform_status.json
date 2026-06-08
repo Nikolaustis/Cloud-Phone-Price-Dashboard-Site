@@ -1,11 +1,11 @@
 [
   {
     "platform": "UgPhone",
-    "status": "ok",
+    "status": "partial",
     "raw_records": 301,
-    "product_rows": 114,
+    "product_rows": 99,
     "baseline_rows": 114,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 15
   },
   {
     "platform": "VSPhone",
