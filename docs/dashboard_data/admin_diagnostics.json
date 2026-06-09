@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-08T01:23:30+00:00",
+  "generated_at_utc": "2026-06-09T01:29:12+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -57,7 +57,7 @@
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 253,
+  "fallback_to_baseline_rows": 256,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -445,7 +445,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "120 days-Special Offer; You Save: $79.97(33%); 六月：120天特价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands; United States",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2402,8 +2402,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-06-08T01:18:01+00:00",
-    "end_time_utc": "2026-06-08T01:22:58+00:00",
+    "start_time_utc": "2026-06-09T01:23:27+00:00",
+    "end_time_utc": "2026-06-09T01:28:31+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -2416,13 +2416,13 @@
     "api_candidate_count": 166,
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260608_011801\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260609_012327\\quality_price_report.xlsx",
       "ug_config_count": 70,
       "pairing_rows": 1026,
       "quality_adjusted_rows": 1026,
       "relative_index_rows": 70,
-      "critical_alerts": 45,
-      "warning_alerts": 219,
+      "critical_alerts": 36,
+      "warning_alerts": 204,
       "not_comparable_rows": 6,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 90
@@ -2430,9 +2430,9 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260608_011801\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260609_012327\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 438,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260608_011801\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260609_012327\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 313,
       "ug_config_comparison_rows": 35,

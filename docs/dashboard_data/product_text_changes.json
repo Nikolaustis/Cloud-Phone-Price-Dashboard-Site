@@ -3573,7 +3573,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 50% OFF; activity; Kids' Day: -50%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3657,7 +3657,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 50% OFF; activity; Kids' Day: -50%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3741,7 +3741,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -50%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3789,7 +3789,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 40% OFF; activity; Kids' Day: -40%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3825,7 +3825,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 50% OFF; activity; Kids' Day: -50%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3873,7 +3873,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -40%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3909,7 +3909,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -50%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3957,7 +3957,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -40%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3993,7 +3993,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -50%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4041,7 +4041,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 40% OFF; activity; Kids' Day: -40%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4077,7 +4077,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 50% OFF; activity; Kids' Day: -50%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4125,7 +4125,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -40%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4161,7 +4161,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "Kids' Day: -50%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4209,7 +4209,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 40% OFF; activity; Kids' Day: -40%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4245,7 +4245,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity; Kids' Day: -50%; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4329,7 +4329,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "⚽️World Cup Deals 50% OFF; activity; Kids' Day: -50%; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",

@@ -77,11 +77,11 @@
       "LDCloud": {
         "competitor_platform": "LDCloud",
         "competitor_product_model": "KVIP",
-        "competitor_config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
-        "config_similarity_score": 90.12,
-        "comparability_level": "strong_match",
+        "competitor_config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+        "config_similarity_score": 87.12,
+        "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
@@ -210,7 +210,7 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "KVIP",
         "competitor_config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
-        "config_similarity_score": 83.33,
+        "config_similarity_score": 81.67,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same",
@@ -429,11 +429,11 @@
       "LDCloud": {
         "competitor_platform": "LDCloud",
         "competitor_product_model": "MVIP",
-        "competitor_config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
-        "config_similarity_score": 93.5,
+        "competitor_config": "MVIP / Android 12 / 8 cores / 16GB / 185GB",
+        "config_similarity_score": 90.5,
         "comparability_level": "strong_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: MVIP10/MVIP12 / 8C / 16GB / 185GB，存储略低于 UG。; android_same; cpu_same; ram_same; storage_competitor_lower; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: MVIP10/MVIP12 / 8C / 16GB / 185GB，存储略低于 UG。; android_competitor_higher; cpu_same; ram_same; storage_competitor_lower; region_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
