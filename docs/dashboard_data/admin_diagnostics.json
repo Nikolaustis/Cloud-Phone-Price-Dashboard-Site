@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-09T01:29:12+00:00",
+  "generated_at_utc": "2026-06-10T06:14:58+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -57,7 +57,7 @@
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 256,
+  "fallback_to_baseline_rows": 258,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -81,7 +81,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "120 days-Special Offer; You Save: $21.97(28%); 六月：120天特价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore; United States",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -757,7 +757,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "120 days-Special Offer; You Save: $15.97(27%); 六月：120天特价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands; United States",
+      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2402,8 +2402,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-06-09T01:23:27+00:00",
-    "end_time_utc": "2026-06-09T01:28:31+00:00",
+    "start_time_utc": "2026-06-10T06:09:20+00:00",
+    "end_time_utc": "2026-06-10T06:14:20+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -2416,13 +2416,13 @@
     "api_candidate_count": 166,
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260609_012327\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260610_060920\\quality_price_report.xlsx",
       "ug_config_count": 70,
       "pairing_rows": 1026,
       "quality_adjusted_rows": 1026,
       "relative_index_rows": 70,
       "critical_alerts": 36,
-      "warning_alerts": 204,
+      "warning_alerts": 208,
       "not_comparable_rows": 6,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 90
@@ -2430,19 +2430,19 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260609_012327\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260610_060920\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 438,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260609_012327\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260610_060920\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 313,
       "ug_config_comparison_rows": 35,
       "price_down_rows": 0
     },
-    "total_records": 3026,
+    "total_records": 3024,
     "records_by_platform": {
       "VSPhone": 2028,
       "Redfinger": 197,
-      "LDCloud": 500,
+      "LDCloud": 498,
       "UgPhone": 301
     },
     "missing_field_stats": {
@@ -2462,13 +2462,13 @@
       "storage": 0,
       "price": 0,
       "original_price": 0,
-      "discount_price": 3026,
+      "discount_price": 3024,
       "billing_period": 0,
       "duration": 0,
       "stock_status": 0,
       "promotion_text": 0,
-      "promotion_start_time": 3026,
-      "promotion_end_time": 3026,
+      "promotion_start_time": 3024,
+      "promotion_end_time": 3024,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,

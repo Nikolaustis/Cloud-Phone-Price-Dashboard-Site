@@ -2,8 +2,8 @@
   "is_mock_data": false,
   "source": "dashboard_export",
   "source_output_dir": "output\\latest",
-  "generated_at_utc": "2026-06-09T01:29:08+00:00",
-  "last_run_at_utc": "2026-06-09T01:28:31+00:00",
-  "last_run_date": "2026-06-09",
+  "generated_at_utc": "2026-06-10T06:14:46+00:00",
+  "last_run_at_utc": "2026-06-10T06:14:20+00:00",
+  "last_run_date": "2026-06-10",
   "safe_data_only": true
 }

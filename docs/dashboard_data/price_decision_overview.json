@@ -222,7 +222,7 @@
       "platform": "LDCloud",
       "product_model": "KVIP",
       "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-      "quality_adjusted_price_30d": 20.875795,
+      "quality_adjusted_price_30d": 17.827399,
       "comparability_level": "adjusted_match"
     },
     "worst_competitor": {
@@ -378,7 +378,7 @@
       "platform": "LDCloud",
       "product_model": "KVIP",
       "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-      "quality_adjusted_price_30d": 17.306358,
+      "quality_adjusted_price_30d": 14.779191,
       "comparability_level": "adjusted_match"
     },
     "worst_competitor": {
@@ -1412,10 +1412,10 @@
     "ug_storage": "64GB",
     "duration_days": 7,
     "ug_effective_price_30d": 18.385714,
-    "competitor_median_quality_adjusted_price_30d": 17.856614,
-    "adjusted_price_gap": 0.5291,
-    "adjusted_price_gap_pct": 0.02963,
-    "ugphone_relative_index": 102.963045,
+    "competitor_median_quality_adjusted_price_30d": 17.627356,
+    "adjusted_price_gap": 0.758358,
+    "adjusted_price_gap_pct": 0.043022,
+    "ugphone_relative_index": 104.302165,
     "market_position_label": "competitive",
     "price_rank": 7,
     "core_competitor_count": 3,
@@ -2605,49 +2605,10 @@
       "comparability_level": "adjusted_match"
     },
     "worst_competitor": {
-      "platform": "Redfinger",
-      "product_model": "KVIP",
-      "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
-      "quality_adjusted_price_30d": 30.568887,
-      "comparability_level": "weak_match"
-    }
-  },
-  {
-    "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d",
-    "ug_product_model": "GVIP",
-    "ug_android_version": "12",
-    "ug_cpu": "4 cores",
-    "ug_ram": "4GB",
-    "ug_storage": "64GB",
-    "duration_days": 15,
-    "ug_effective_price_30d": 11.38,
-    "competitor_median_quality_adjusted_price_30d": 17.306358,
-    "adjusted_price_gap": -5.926358,
-    "adjusted_price_gap_pct": -0.342438,
-    "ugphone_relative_index": 65.75618,
-    "market_position_label": "below_market",
-    "price_rank": 7,
-    "core_competitor_count": 1,
-    "weak_competitor_count": 2,
-    "pairing_coverage_score": 33.333333,
-    "confidence_level": "medium",
-    "confidence_notes": "baseline fallback used",
-    "alert_level": "none",
-    "reason_code": "unchanged",
-    "reason_explanation": "无明显变化。",
-    "recommendation": "可保持价格，观察是否有提价空间。",
-    "best_competitor": {
-      "platform": "VSPhone",
-      "product_model": "VIP",
-      "config": "VIP / Android 13 / 8 cores / 3.2GB / 50GB",
-      "quality_adjusted_price_30d": 0.844109,
-      "comparability_level": "weak_match"
-    },
-    "worst_competitor": {
       "platform": "LDCloud",
       "product_model": "KVIP",
       "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-      "quality_adjusted_price_30d": 27.653179,
+      "quality_adjusted_price_30d": 33.356647,
       "comparability_level": "adjusted_match"
     }
   },
@@ -2726,6 +2687,45 @@
       "product_model": "MVIP",
       "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
       "quality_adjusted_price_30d": 49.147096,
+      "comparability_level": "adjusted_match"
+    }
+  },
+  {
+    "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d",
+    "ug_product_model": "GVIP",
+    "ug_android_version": "12",
+    "ug_cpu": "4 cores",
+    "ug_ram": "4GB",
+    "ug_storage": "64GB",
+    "duration_days": 15,
+    "ug_effective_price_30d": 11.38,
+    "competitor_median_quality_adjusted_price_30d": 27.653179,
+    "adjusted_price_gap": -16.273179,
+    "adjusted_price_gap_pct": -0.588474,
+    "ugphone_relative_index": 41.152592,
+    "market_position_label": "below_market",
+    "price_rank": 7,
+    "core_competitor_count": 1,
+    "weak_competitor_count": 2,
+    "pairing_coverage_score": 33.333333,
+    "confidence_level": "medium",
+    "confidence_notes": "baseline fallback used",
+    "alert_level": "none",
+    "reason_code": "unchanged",
+    "reason_explanation": "无明显变化。",
+    "recommendation": "可保持价格，观察是否有提价空间。",
+    "best_competitor": {
+      "platform": "VSPhone",
+      "product_model": "VIP",
+      "config": "VIP / Android 13 / 8 cores / 3.2GB / 50GB",
+      "quality_adjusted_price_30d": 0.844109,
+      "comparability_level": "weak_match"
+    },
+    "worst_competitor": {
+      "platform": "LDCloud",
+      "product_model": "KVIP",
+      "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+      "quality_adjusted_price_30d": 48.277457,
       "comparability_level": "adjusted_match"
     }
   }
