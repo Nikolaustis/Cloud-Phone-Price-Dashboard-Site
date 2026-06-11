@@ -950,13 +950,13 @@
       "ug_config": "SVIP / Android 10 / 8 cores / 16GB / 200GB",
       "duration_days": 1,
       "ug_effective_price_30d": 89.7,
-      "competitor_median_quality_adjusted_price_30d": 84.376147,
+      "competitor_median_quality_adjusted_price_30d": 70.523623,
       "core_match_rows": 18,
       "weak_match_rows": 0,
       "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 106.309666,
-      "market_position_label": "slightly_high",
-      "alert_level": "warning",
+      "ugphone_relative_index": 127.191424,
+      "market_position_label": "high",
+      "alert_level": "critical",
       "reason_code": "abnormal_unexplained",
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
@@ -1062,17 +1062,17 @@
     },
     {
       "name": "high",
-      "value": 21
+      "value": 22
     },
     {
       "name": "slightly_high",
-      "value": 15
+      "value": 14
     }
   ],
   "alert_distribution": [
     {
       "name": "critical",
-      "value": 21
+      "value": 22
     },
     {
       "name": "none",
@@ -1080,7 +1080,7 @@
     },
     {
       "name": "warning",
-      "value": 15
+      "value": 14
     }
   ],
   "confidence_distribution": [
@@ -1256,6 +1256,17 @@
       "needs_data_review": false
     },
     {
+      "ug_config_id": "svip___android_10___8_cores___16gb___200gb__1d",
+      "ug_config": "SVIP A10 8 cores/16GB/200GB",
+      "relative_index": 127.191424,
+      "adjusted_gap_pct": 0.271914,
+      "reason_code": "abnormal_unexplained",
+      "confidence_level": "medium",
+      "alert_level": "critical",
+      "recommended_action": "必须人工复核。",
+      "needs_data_review": false
+    },
+    {
       "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d",
       "ug_config": "GVIP A13 4 cores/4GB/64GB",
       "relative_index": 123.965091,
@@ -1293,17 +1304,6 @@
       "ug_config": "KVIP A13 6 cores/5.3GB/64GB",
       "relative_index": 116.972814,
       "adjusted_gap_pct": 0.169728,
-      "reason_code": "abnormal_unexplained",
-      "confidence_level": "medium",
-      "alert_level": "critical",
-      "recommended_action": "必须人工复核。",
-      "needs_data_review": false
-    },
-    {
-      "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb__365d",
-      "ug_config": "KVIP A13 6 cores/5.3GB/64GB",
-      "relative_index": 116.298421,
-      "adjusted_gap_pct": 0.162984,
       "reason_code": "abnormal_unexplained",
       "confidence_level": "medium",
       "alert_level": "critical",

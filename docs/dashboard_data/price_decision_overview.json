@@ -585,6 +585,45 @@
     }
   },
   {
+    "ug_config_id": "svip___android_10___8_cores___16gb___200gb__1d",
+    "ug_product_model": "SVIP",
+    "ug_android_version": "10",
+    "ug_cpu": "8 cores",
+    "ug_ram": "16GB",
+    "ug_storage": "200GB",
+    "duration_days": 1,
+    "ug_effective_price_30d": 89.7,
+    "competitor_median_quality_adjusted_price_30d": 70.523623,
+    "adjusted_price_gap": 19.176377,
+    "adjusted_price_gap_pct": 0.271914,
+    "ugphone_relative_index": 127.191424,
+    "market_position_label": "high",
+    "price_rank": 17,
+    "core_competitor_count": 3,
+    "weak_competitor_count": 0,
+    "pairing_coverage_score": 100.0,
+    "confidence_level": "medium",
+    "confidence_notes": "baseline fallback used",
+    "alert_level": "critical",
+    "reason_code": "abnormal_unexplained",
+    "reason_explanation": "无法由已知因素解释，需要人工复核。",
+    "recommendation": "必须人工复核。",
+    "best_competitor": {
+      "platform": "Redfinger",
+      "product_model": "XVIP",
+      "config": "XVIP / Android 12 / 8 cores / 16GB / 256GB",
+      "quality_adjusted_price_30d": 28.612609,
+      "comparability_level": "adjusted_match"
+    },
+    "worst_competitor": {
+      "platform": "LDCloud",
+      "product_model": "MVIP",
+      "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
+      "quality_adjusted_price_30d": 143.468659,
+      "comparability_level": "adjusted_match"
+    }
+  },
+  {
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d",
     "ug_product_model": "GVIP",
     "ug_android_version": "13",
@@ -1322,45 +1361,6 @@
       "product_model": "XVIP",
       "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
       "quality_adjusted_price_30d": 13.381672,
-      "comparability_level": "adjusted_match"
-    }
-  },
-  {
-    "ug_config_id": "svip___android_10___8_cores___16gb___200gb__1d",
-    "ug_product_model": "SVIP",
-    "ug_android_version": "10",
-    "ug_cpu": "8 cores",
-    "ug_ram": "16GB",
-    "ug_storage": "200GB",
-    "duration_days": 1,
-    "ug_effective_price_30d": 89.7,
-    "competitor_median_quality_adjusted_price_30d": 84.376147,
-    "adjusted_price_gap": 5.323853,
-    "adjusted_price_gap_pct": 0.063097,
-    "ugphone_relative_index": 106.309666,
-    "market_position_label": "slightly_high",
-    "price_rank": 15,
-    "core_competitor_count": 3,
-    "weak_competitor_count": 0,
-    "pairing_coverage_score": 100.0,
-    "confidence_level": "medium",
-    "confidence_notes": "baseline fallback used",
-    "alert_level": "warning",
-    "reason_code": "abnormal_unexplained",
-    "reason_explanation": "无法由已知因素解释，需要人工复核。",
-    "recommendation": "必须人工复核。",
-    "best_competitor": {
-      "platform": "LDCloud",
-      "product_model": "MVIP",
-      "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
-      "quality_adjusted_price_30d": 20.175911,
-      "comparability_level": "adjusted_match"
-    },
-    "worst_competitor": {
-      "platform": "LDCloud",
-      "product_model": "MVIP",
-      "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
-      "quality_adjusted_price_30d": 143.468659,
       "comparability_level": "adjusted_match"
     }
   },
@@ -2568,8 +2568,8 @@
     "worst_competitor": {
       "platform": "LDCloud",
       "product_model": "MVIP",
-      "config": "MVIP / Android 12 / 8 cores / 16GB / 185GB",
-      "quality_adjusted_price_30d": 39.691812,
+      "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
+      "quality_adjusted_price_30d": 40.346777,
       "comparability_level": "strong_match"
     }
   },
@@ -2687,7 +2687,7 @@
       "product_model": "MVIP",
       "config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
       "quality_adjusted_price_30d": 49.147096,
-      "comparability_level": "adjusted_match"
+      "comparability_level": "strong_match"
     }
   },
   {
