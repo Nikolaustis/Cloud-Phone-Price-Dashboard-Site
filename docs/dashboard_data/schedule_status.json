@@ -4,7 +4,7 @@
   "schedule_time_local": "10:00",
   "last_run_time": "2026-06-15T01:28:01+00:00",
   "last_run_status": "success",
-  "next_run_time_estimated": "2026-06-15T10:00:00+08:00",
+  "next_run_time_estimated": "2026-06-16T10:00:00+08:00",
   "last_run_duration_seconds": 288,
   "data_freshness_status": "fresh",
   "stale_after_hours": 30,
