@@ -2354,6 +2354,66 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 1,
+    "duration_display": "1天",
+    "current_price": 1.19,
+    "current_promotion_text": "≈1.19/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 12.95,
+    "current_promotion_text": "≈0.43/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 95.949995,
+    "current_promotion_text": "≈0.26/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 7,
+    "duration_display": "7天",
+    "current_price": 4.95,
+    "current_promotion_text": "≈0.71/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 35.949999,
+    "current_promotion_text": "≈0.40/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
     "config": "KVIP / A12 / 8 cores / 6GB / 80GB",
     "duration_bucket": 1,
     "duration_display": "1天",
@@ -2410,6 +2470,66 @@
     "previous_promotion_text": "≈0.40/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 1,
+    "duration_display": "1天",
+    "current_price": 1.19,
+    "current_promotion_text": "≈1.19/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 12.95,
+    "current_promotion_text": "≈0.43/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 95.949995,
+    "current_promotion_text": "≈0.26/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 7,
+    "duration_display": "7天",
+    "current_price": 4.95,
+    "current_promotion_text": "≈0.71/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "KVIP",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 35.949999,
+    "current_promotion_text": "≈0.40/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -3046,6 +3166,66 @@
     "previous_promotion_text": "≈0.33/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 1,
+    "duration_display": "1天",
+    "current_price": 0.99,
+    "current_promotion_text": "≈0.99/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 10.95,
+    "current_promotion_text": "≈0.37/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 79.950002,
+    "current_promotion_text": "≈0.22/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 7,
+    "duration_display": "7天",
+    "current_price": 3.95,
+    "current_promotion_text": "≈0.56/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 29.949999,
+    "current_promotion_text": "≈0.33/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -3354,10 +3534,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 4.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3378,10 +3558,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 1.69,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3438,10 +3618,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 4.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3462,10 +3642,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 1.69,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3546,10 +3726,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 1.69,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3606,10 +3786,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 5.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3630,10 +3810,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.49,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3690,10 +3870,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 5.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3714,10 +3894,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.49,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3774,10 +3954,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 5.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3798,10 +3978,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.49,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3858,10 +4038,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 8.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3882,10 +4062,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 3.49,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3942,10 +4122,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 8.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3966,10 +4146,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 3.49,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4026,10 +4206,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 11.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4050,10 +4230,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 3.99,
-    "current_promotion_text": "MEGA SLASH; activity",
+    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",

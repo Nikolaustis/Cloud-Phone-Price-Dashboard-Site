@@ -959,7 +959,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 1.69,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1027,8 +1027,8 @@
         "ugphone_relative_index": 42.784809,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.434783,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1048,7 +1048,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 1.69,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1116,8 +1116,8 @@
         "ugphone_relative_index": 37.807606,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.434783,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1137,7 +1137,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 1.69,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1205,8 +1205,8 @@
         "ugphone_relative_index": 42.784809,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.434783,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1226,7 +1226,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 2.49,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1294,8 +1294,8 @@
         "ugphone_relative_index": 50.303032,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.41958,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1315,7 +1315,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 2.49,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1383,8 +1383,8 @@
         "ugphone_relative_index": 50.303032,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.41958,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1404,7 +1404,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 2.49,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1472,8 +1472,8 @@
         "ugphone_relative_index": 50.303032,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.41958,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1493,7 +1493,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 3.49,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1561,8 +1561,8 @@
         "ugphone_relative_index": 50.215828,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.417362,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1582,7 +1582,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 3.49,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1650,8 +1650,8 @@
         "ugphone_relative_index": 58.458962,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.417362,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -1671,7 +1671,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 3.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -1739,8 +1739,8 @@
         "ugphone_relative_index": 36.438356,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.33389,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       }
     ],
@@ -2689,9 +2689,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
             "current_price": 10.95,
-            "config_similarity_score": 78,
+            "config_similarity_score": 80,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2709,9 +2709,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
             "current_price": 12.99,
-            "config_similarity_score": 85.12,
+            "config_similarity_score": 87.12,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2930,7 +2930,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 5.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -2998,8 +2998,8 @@
         "ugphone_relative_index": 46.254826,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500417,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -3019,7 +3019,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 5.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3087,8 +3087,8 @@
         "ugphone_relative_index": 46.254826,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500417,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -3108,7 +3108,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 5.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3176,8 +3176,8 @@
         "ugphone_relative_index": 46.254826,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500417,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -3197,7 +3197,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 8.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3265,8 +3265,8 @@
         "ugphone_relative_index": 56.222639,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500278,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -3286,7 +3286,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 8.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3354,8 +3354,8 @@
         "ugphone_relative_index": 56.222639,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500278,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       },
       {
@@ -3375,7 +3375,7 @@
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
         "ugphone_price": 11.99,
-        "has_price_change": true,
+        "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
           "VSPhone": {
@@ -3443,8 +3443,8 @@
         "ugphone_relative_index": 35.316642,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.500208,
-        "reason_code": "price_down",
+        "price_change_pct": 0.0,
+        "reason_code": "promotion_text_changed",
         "alert_level": "info"
       }
     ],
