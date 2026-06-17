@@ -1,10 +1,10 @@
 {
-  "total_raw_records": 3024,
-  "total_product_rows": 538,
+  "total_raw_records": 2935,
+  "total_product_rows": 505,
   "total_baseline_rows": 513,
   "ug_config_count": 70,
   "critical_alerts": 19,
-  "warning_alerts": 10,
+  "warning_alerts": 11,
   "high_confidence_decisions": 0,
   "low_confidence_decisions": 0
 }
