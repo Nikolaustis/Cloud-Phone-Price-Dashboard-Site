@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T01:27:03+00:00",
+  "updated_at": "2026-06-18T01:32:33+00:00",
   "baseline_config_count": 10,
   "core_duration_buckets": [
     1,
@@ -14,13 +14,14 @@
   ],
   "rows_compared": 70,
   "market_position_counts": {
-    "high": 16,
-    "competitive": 13,
-    "below_market": 32,
-    "slightly_high": 9
+    "high": 15,
+    "competitive": 15,
+    "below_market": 30,
+    "unknown": 2,
+    "slightly_high": 8
   },
-  "above_market_count": 25,
-  "below_market_count": 32,
+  "above_market_count": 23,
+  "below_market_count": 30,
   "attention_items": [
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -1026,7 +1027,7 @@
           "product_model": "KVIP",
           "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
           "current_price": 23.990001,
-          "config_similarity_score": 81.67,
+          "config_similarity_score": 83.33,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
