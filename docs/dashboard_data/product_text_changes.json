@@ -2054,7 +2054,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A10.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
     "duration_bucket": 1,
     "duration_display": "1天",
     "current_price": 1.19,
@@ -2066,7 +2066,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A10.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.95,
@@ -2078,7 +2078,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A10.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 95.949995,
@@ -2090,7 +2090,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A10.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 4.95,
@@ -2102,7 +2102,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A10.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 35.949999,
@@ -2174,7 +2174,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / nan",
     "duration_bucket": 1,
     "duration_display": "1天",
     "current_price": 1.19,
@@ -2186,7 +2186,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / nan",
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.95,
@@ -2198,7 +2198,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / nan",
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 95.949995,
@@ -2210,7 +2210,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / nan",
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 4.95,
@@ -2222,7 +2222,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A12.0 / 8 cores / 6GB / nan",
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 35.949999,
@@ -2294,7 +2294,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / nan",
     "duration_bucket": 1,
     "duration_display": "1天",
     "current_price": 1.19,
@@ -2306,7 +2306,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / nan",
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.95,
@@ -2318,7 +2318,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / nan",
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 95.949995,
@@ -2330,7 +2330,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / nan",
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 4.95,
@@ -2342,7 +2342,7 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A15.0 / 8 cores / 6GB / 80GB",
+    "config": "KVIP / A15.0 / 8 cores / 6GB / nan",
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 35.949999,
@@ -3353,11 +3353,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 7.99,
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3377,11 +3377,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.69,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 2.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3437,11 +3437,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 7.99,
+    "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -3461,11 +3461,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.69,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 2.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3545,11 +3545,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.69,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 2.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3605,11 +3605,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 11.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3629,11 +3629,11 @@
     "config": "KVIP / A10 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 4.29,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3689,11 +3689,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 11.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3713,11 +3713,11 @@
     "config": "KVIP / A12 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 4.29,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3773,11 +3773,11 @@
     "config": "KVIP / A13 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 11.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3797,11 +3797,11 @@
     "config": "KVIP / A13 / 6 cores / 5.3GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 4.29,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3857,11 +3857,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 8.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 17.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3881,11 +3881,11 @@
     "config": "MVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 5.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3941,11 +3941,11 @@
     "config": "MVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 8.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 17.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -3965,11 +3965,11 @@
     "config": "MVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 5.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -4025,11 +4025,11 @@
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 11.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 23.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
@@ -4049,11 +4049,11 @@
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡; activity",
+    "current_price": 5.99,
+    "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "UgPhone",
