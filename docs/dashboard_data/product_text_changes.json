@@ -77,11 +77,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 19.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -101,11 +101,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 23.990001,
-    "current_promotion_text": "90 days: Special Offer; You Save: $14.98(38%); 六月：90天特价",
+    "current_price": 25.989999,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -293,11 +293,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 19.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -317,11 +317,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 23.990001,
-    "current_promotion_text": "90 days: Special Offer; You Save: $14.98(38%); 六月：90天特价",
+    "current_price": 25.989999,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -401,10 +401,10 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 12.99,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_price": 6.495,
+    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": true,
+    "promotion_text_changed": false,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -413,11 +413,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 19.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -437,11 +437,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 23.990001,
-    "current_promotion_text": "90 days: Special Offer; You Save: $14.98(38%); 六月：90天特价",
+    "current_price": 25.989999,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -533,8 +533,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 19.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99; 60 days; Recommend; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -557,8 +557,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 23.990001,
-    "current_promotion_text": "90 days: Special Offer; You Save: $14.98(38%); 六月：90天特价",
+    "current_price": 25.989999,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -641,11 +641,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 59.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 45.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -665,11 +665,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 66.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $52.98(44%); 六月：90天特价",
+    "current_price": 69.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -761,11 +761,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 59.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 45.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -785,11 +785,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 66.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $52.98(44%); 六月：90天特价",
+    "current_price": 69.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -881,11 +881,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 59.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 45.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -905,11 +905,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 66.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $52.98(44%); 六月：90天特价",
+    "current_price": 69.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1001,8 +1001,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 59.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 45.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99; 60 days; Recommend; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1025,8 +1025,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 66.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $52.98(44%); 六月：90天特价",
+    "current_price": 69.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1109,11 +1109,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 15.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 13.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1133,11 +1133,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 18.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $10.98(37%); 六月：90天特价",
+    "current_price": 20.990001,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1325,11 +1325,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 15.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 13.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1349,11 +1349,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 18.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $10.98(37%); 六月：90天特价",
+    "current_price": 20.990001,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1445,11 +1445,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 15.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 13.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1469,11 +1469,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 18.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $10.98(37%); 六月：90天特价",
+    "current_price": 20.990001,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1565,11 +1565,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 29.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 25.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1589,11 +1589,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 36.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $22.98(38%); 六月：90天特价",
+    "current_price": 39.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1781,11 +1781,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 29.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 25.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1805,11 +1805,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 36.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $22.98(38%); 六月：90天特价",
+    "current_price": 39.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1901,11 +1901,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 29.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 25.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1925,11 +1925,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 36.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $22.98(38%); 六月：90天特价",
+    "current_price": 39.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -2021,8 +2021,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 29.99,
-    "current_promotion_text": "60 days; Recommend; 日常价",
+    "current_price": 25.99,
+    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99; 60 days; Recommend; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -2045,8 +2045,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 36.99,
-    "current_promotion_text": "90 days: Special Offer; You Save: $22.98(38%); 六月：90天特价",
+    "current_price": 39.99,
+    "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -3357,7 +3357,7 @@
     "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3381,7 +3381,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3441,7 +3441,7 @@
     "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3465,7 +3465,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3549,7 +3549,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3609,7 +3609,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3633,7 +3633,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3693,7 +3693,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3717,7 +3717,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3777,7 +3777,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3801,7 +3801,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3861,7 +3861,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3885,7 +3885,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3945,7 +3945,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3969,7 +3969,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4029,7 +4029,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4053,7 +4053,7 @@
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
