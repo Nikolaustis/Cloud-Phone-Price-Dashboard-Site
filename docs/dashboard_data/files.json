@@ -3,91 +3,91 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 3732127,
+    "size_bytes": 3614423,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 143005,
+    "size_bytes": 135221,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 15302026,
+    "size_bytes": 15103924,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 136784,
+    "size_bytes": 139072,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
     "path": "output\\latest\\baseline_products_updated.xlsx",
     "exists": true,
-    "size_bytes": 139710,
+    "size_bytes": 139663,
     "safe_to_open": true
   },
   {
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 242019,
+    "size_bytes": 242972,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
     "path": "output\\latest\\run_summary.json",
     "exists": true,
-    "size_bytes": 2659,
+    "size_bytes": 2660,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/frontend_price_overview.json",
     "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
     "exists": true,
-    "size_bytes": 42390,
+    "size_bytes": 42293,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/pairing_matrix.json",
     "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
     "exists": true,
-    "size_bytes": 21111,
+    "size_bytes": 21139,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 256612,
+    "size_bytes": 257168,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json",
     "path": "output\\latest\\dashboard_data\\price_trends.json",
     "exists": true,
-    "size_bytes": 11946862,
+    "size_bytes": 11687847,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
     "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
     "exists": true,
-    "size_bytes": 633735,
+    "size_bytes": 630802,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
     "path": "output\\latest\\dashboard_data\\product_text_changes.json",
     "exists": true,
-    "size_bytes": 210689,
+    "size_bytes": 210289,
     "safe_to_open": true
   },
   {

@@ -1,9 +1,9 @@
 {
-  "total_raw_records": 2991,
-  "total_product_rows": 538,
+  "total_raw_records": 2912,
+  "total_product_rows": 512,
   "total_baseline_rows": 513,
   "ug_config_count": 70,
-  "critical_alerts": 22,
+  "critical_alerts": 24,
   "warning_alerts": 15,
   "high_confidence_decisions": 0,
   "low_confidence_decisions": 0
