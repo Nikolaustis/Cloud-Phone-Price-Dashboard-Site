@@ -21,7 +21,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -237,7 +237,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -357,7 +357,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -573,7 +573,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -693,7 +693,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -813,7 +813,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1029,7 +1029,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1245,7 +1245,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1365,7 +1365,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1485,7 +1485,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1701,7 +1701,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1821,7 +1821,7 @@
     "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",

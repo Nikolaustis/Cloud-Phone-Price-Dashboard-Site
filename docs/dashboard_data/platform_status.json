@@ -25,10 +25,10 @@
   },
   {
     "platform": "LDCloud",
-    "status": "ok",
+    "status": "partial",
     "raw_records": 390,
-    "product_rows": 188,
+    "product_rows": 150,
     "baseline_rows": 175,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 25
   }
 ]

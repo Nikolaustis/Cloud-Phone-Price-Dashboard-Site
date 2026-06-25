@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T02:04:48+00:00",
+  "updated_at": "2026-06-25T02:05:08+00:00",
   "baseline_config_count": 10,
   "core_duration_buckets": [
     1,
@@ -14,14 +14,13 @@
   ],
   "rows_compared": 70,
   "market_position_counts": {
-    "high": 19,
-    "competitive": 18,
-    "below_market": 24,
-    "unknown": 2,
+    "high": 21,
+    "competitive": 16,
+    "below_market": 26,
     "slightly_high": 7
   },
-  "above_market_count": 26,
-  "below_market_count": 24,
+  "above_market_count": 28,
+  "below_market_count": 26,
   "attention_items": [
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -594,7 +593,7 @@
           "product_model": "VIP",
           "config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
           "current_price": 20.990001,
-          "config_similarity_score": 80,
+          "config_similarity_score": 81.43,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
