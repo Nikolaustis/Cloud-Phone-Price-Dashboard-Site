@@ -41,11 +41,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -257,11 +257,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -377,11 +377,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -497,8 +497,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 11.49,
+    "current_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -553,6 +553,18 @@
   },
   {
     "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.290001,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 15,
@@ -593,11 +605,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -713,11 +725,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -833,11 +845,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -953,8 +965,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 35.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1006,6 +1018,18 @@
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.790002,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "LDCloud",
@@ -1049,11 +1073,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1265,11 +1289,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1385,11 +1409,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 8.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1505,11 +1529,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1721,11 +1745,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1841,11 +1865,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "LDCloud",
@@ -1961,8 +1985,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_price": 17.99,
+    "current_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -2016,6 +2040,18 @@
     "reason_code": "promotion_text_changed"
   },
   {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
+    "duration_bucket": "other",
+    "duration_display": "0.166667天",
+    "current_price": 0.390001,
+    "current_promotion_text": "4-hour trial; New User Offer; 新用户特惠",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
     "platform": "Redfinger",
     "product_model": "KVIP",
     "config": "KVIP / A10.0 / 8 cores / 6GB / nan",
@@ -2710,66 +2746,6 @@
     "previous_promotion_text": "≈0.51/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 1,
-    "duration_display": "1天",
-    "current_price": 0.99,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 10.95,
-    "current_promotion_text": "≈0.37/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 79.950002,
-    "current_promotion_text": "≈0.22/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 3.95,
-    "current_promotion_text": "≈0.56/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 29.949999,
-    "current_promotion_text": "≈0.33/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -2950,66 +2926,6 @@
     "previous_promotion_text": "≈0.33/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 1,
-    "duration_display": "1天",
-    "current_price": 0.99,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 10.95,
-    "current_promotion_text": "≈0.37/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 79.950002,
-    "current_promotion_text": "≈0.22/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 3.95,
-    "current_promotion_text": "≈0.56/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 29.949999,
-    "current_promotion_text": "≈0.33/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -3090,10 +3006,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 10.95,
-    "current_promotion_text": "≈0.37/day",
+    "current_promotion_text": "New Users  off--Limited 24H！; ≈0.30/day; ≈0.37/day",
     "previous_promotion_text": "New Users  off--Limited 24H！; ≈0.30/day; ≈0.37/day",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "Redfinger",

@@ -1,34 +1,38 @@
 [
   {
     "platform": "UgPhone",
-    "status": "ok",
+    "status": "partial",
     "raw_records": 301,
-    "product_rows": 130,
+    "product_rows": 98,
+    "priced_product_rows": 0,
     "baseline_rows": 99,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 1
   },
   {
     "platform": "VSPhone",
     "status": "ok",
     "raw_records": 2028,
     "product_rows": 169,
+    "priced_product_rows": 0,
     "baseline_rows": 169,
     "missing_vs_baseline": 0
   },
   {
     "platform": "Redfinger",
     "status": "partial",
-    "raw_records": 193,
-    "product_rows": 57,
+    "raw_records": 148,
+    "product_rows": 42,
+    "priced_product_rows": 0,
     "baseline_rows": 70,
-    "missing_vs_baseline": 13
+    "missing_vs_baseline": 28
   },
   {
     "platform": "LDCloud",
     "status": "partial",
-    "raw_records": 390,
-    "product_rows": 142,
+    "raw_records": 489,
+    "product_rows": 168,
+    "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 33
+    "missing_vs_baseline": 7
   }
 ]
