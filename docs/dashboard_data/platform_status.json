@@ -3,10 +3,10 @@
     "platform": "UgPhone",
     "status": "partial",
     "raw_records": 301,
-    "product_rows": 98,
+    "product_rows": 97,
     "priced_product_rows": 0,
     "baseline_rows": 99,
-    "missing_vs_baseline": 1
+    "missing_vs_baseline": 2
   },
   {
     "platform": "VSPhone",

@@ -1,6 +1,6 @@
 {
-  "start_time_utc": "2026-06-29T03:10:55+00:00",
-  "end_time_utc": "2026-06-29T03:15:33+00:00",
+  "start_time_utc": "2026-06-30T01:23:55+00:00",
+  "end_time_utc": "2026-06-30T01:28:38+00:00",
   "records_by_platform": {
     "VSPhone": 2028,
     "Redfinger": 148,
@@ -13,23 +13,23 @@
   "baseline_monitor": {
     "baseline_found": true,
     "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-    "updated_baseline_path": "output\\cloud_phone_monitor_20260629_031055\\baseline_products_updated.xlsx",
+    "updated_baseline_path": "output\\cloud_phone_monitor_20260630_012355\\baseline_products_updated.xlsx",
     "updated_baseline_price_rows": 409,
-    "daily_changes_path": "output\\cloud_phone_monitor_20260629_031055\\daily_changes.xlsx",
+    "daily_changes_path": "output\\cloud_phone_monitor_20260630_012355\\daily_changes.xlsx",
     "comparison_rows": 431,
     "alert_rows": 362,
     "ug_config_comparison_rows": 35,
-    "price_down_rows": 12
+    "price_down_rows": 0
   },
   "quality_price_monitor": {
     "enabled": true,
-    "report_path": "output\\cloud_phone_monitor_20260629_031055\\quality_price_report.xlsx",
+    "report_path": "output\\cloud_phone_monitor_20260630_012355\\quality_price_report.xlsx",
     "ug_config_count": 70,
     "pairing_rows": 891,
     "quality_adjusted_rows": 891,
     "relative_index_rows": 70,
     "critical_alerts": 39,
-    "warning_alerts": 154,
+    "warning_alerts": 147,
     "not_comparable_rows": 6,
     "input_basis": "baseline_with_current_overlay",
     "fallback_baseline_rows": 104
