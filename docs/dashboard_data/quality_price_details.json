@@ -2935,8 +2935,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__7d"
   },
   {
@@ -3205,8 +3205,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__15d"
   },
   {
@@ -3745,8 +3745,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
   {
@@ -4015,8 +4015,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
   {
@@ -4285,8 +4285,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
   {
@@ -4555,8 +4555,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__15d"
   },
   {
@@ -5095,8 +5095,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
   {
@@ -5365,8 +5365,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
   {
@@ -5635,8 +5635,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
   {
@@ -6445,8 +6445,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
   {
@@ -6955,8 +6955,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "4-hour trial; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__1d"
   },
   {
@@ -6985,8 +6985,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__1d"
   },
   {
@@ -7015,8 +7015,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__1d"
   },
   {
@@ -7225,8 +7225,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
   {
@@ -7255,8 +7255,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
   {
@@ -7285,8 +7285,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "4-hour trial; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
   {
@@ -7495,8 +7495,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -7525,8 +7525,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -7555,8 +7555,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -7765,8 +7765,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -7795,8 +7795,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -7825,8 +7825,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -8035,8 +8035,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
   {
@@ -8065,8 +8065,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
   {
@@ -8305,8 +8305,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -8335,8 +8335,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -8365,8 +8365,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -8575,8 +8575,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
   {
@@ -8605,8 +8605,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
   {
@@ -8635,8 +8635,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
   {
@@ -8845,8 +8845,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -8875,8 +8875,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -8905,8 +8905,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__15d"
   },
   {
@@ -9115,8 +9115,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
   {
@@ -9145,8 +9145,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
   {
@@ -9385,8 +9385,8 @@
     "comparability_level": "strong_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -9415,8 +9415,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -9445,8 +9445,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
   {
@@ -9655,8 +9655,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -9685,8 +9685,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -9715,8 +9715,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
   {
@@ -9925,8 +9925,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "4-hour trial; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__1d"
   },
   {
@@ -9955,8 +9955,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__1d"
   },
   {
@@ -9985,8 +9985,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__1d"
   },
   {
@@ -10195,8 +10195,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__7d"
   },
   {
@@ -10255,8 +10255,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__7d"
   },
   {
@@ -10465,8 +10465,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__15d"
   },
   {
@@ -10525,8 +10525,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__15d"
   },
   {
@@ -10735,8 +10735,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
   {
@@ -10765,8 +10765,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
   {
@@ -10795,8 +10795,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
   {
@@ -11005,8 +11005,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d"
   },
   {
@@ -11065,8 +11065,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d"
   },
   {
@@ -11275,8 +11275,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__180d"
   },
   {
@@ -11335,8 +11335,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__180d"
   },
   {
@@ -11545,8 +11545,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__365d"
   },
   {
@@ -11605,8 +11605,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_competitor_lower_1; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__365d"
   },
   {
@@ -12115,8 +12115,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__7d"
   },
   {
@@ -12385,8 +12385,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__15d"
   },
   {
@@ -12925,8 +12925,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__90d"
   },
   {
@@ -13195,8 +13195,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__180d"
   },
   {
@@ -13465,8 +13465,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__365d"
   },
   {
@@ -13975,8 +13975,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "4-hour trial; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3461; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__1d"
   },
   {
@@ -14005,8 +14005,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__1d"
   },
   {
@@ -14035,8 +14035,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__1d"
   },
   {
@@ -14245,8 +14245,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__7d"
   },
   {
@@ -14305,8 +14305,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=3553; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__7d"
   },
   {
@@ -14515,8 +14515,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "15 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3591; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__15d"
   },
   {
@@ -14575,8 +14575,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2704; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__15d"
   },
   {
@@ -14785,8 +14785,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
   {
@@ -14815,8 +14815,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
   {
@@ -14845,8 +14845,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=3466; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
   {
@@ -15055,8 +15055,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
   {
@@ -15115,8 +15115,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=4969; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
   {
@@ -15325,8 +15325,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
   {
@@ -15385,8 +15385,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=2698; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
   {
@@ -15595,8 +15595,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; 日常价",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same; api_price_list; area_code=tw; cardType=73; productId=2696; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   },
   {
@@ -15655,8 +15655,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
-    "supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=73; productId=5312; area_code=sg; area_code=us; current_price_overlay_applied; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   },
   {

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-01T01:46:07+00:00",
+  "generated_at_utc": "2026-07-02T02:08:47+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -1752,8 +1752,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-07-01T01:39:39+00:00",
-    "end_time_utc": "2026-07-01T01:44:43+00:00",
+    "start_time_utc": "2026-07-02T02:00:07+00:00",
+    "end_time_utc": "2026-07-02T02:05:22+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -1766,7 +1766,7 @@
     "api_candidate_count": 158,
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260701_013939\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260702_020007\\quality_price_report.xlsx",
       "ug_config_count": 70,
       "pairing_rows": 891,
       "quality_adjusted_rows": 891,
@@ -1780,9 +1780,9 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260701_013939\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260702_020007\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 409,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260701_013939\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260702_020007\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 362,
       "ug_config_comparison_rows": 35,
