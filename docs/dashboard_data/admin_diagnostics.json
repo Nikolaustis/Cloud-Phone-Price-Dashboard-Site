@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-06T09:18:51+00:00",
+  "generated_at_utc": "2026-07-07T01:31:03+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -59,17 +59,17 @@
       "collection_status": "collection_failed",
       "collection_health": "failed",
       "baseline_coverage_status": "changed",
-      "baseline_coverage_ratio": 0.8914,
+      "baseline_coverage_ratio": 0.9029,
       "fallback_to_baseline": true,
       "fallback_reason": "current_missing_used_baseline",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 19
+      "missing_baseline_rows": 17
     }
   ],
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 596,
+  "fallback_to_baseline_rows": 567,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -3298,8 +3298,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-07-06T09:05:27+00:00",
-    "end_time_utc": "2026-07-06T09:15:44+00:00",
+    "start_time_utc": "2026-07-07T01:19:05+00:00",
+    "end_time_utc": "2026-07-07T01:28:56+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -3309,7 +3309,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 134,
+    "api_candidate_count": 136,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -3347,13 +3347,13 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260706_090527\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260707_011905\\quality_price_report.xlsx",
       "ug_config_count": 132,
       "pairing_rows": 1917,
       "quality_adjusted_rows": 1917,
       "relative_index_rows": 159,
-      "critical_alerts": 33,
-      "warning_alerts": 286,
+      "critical_alerts": 35,
+      "warning_alerts": 284,
       "not_comparable_rows": 32,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 221
@@ -3361,9 +3361,9 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260706_090527\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260707_011905\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 292,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260706_090527\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260707_011905\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 357,
       "ug_config_comparison_rows": 35,

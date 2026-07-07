@@ -40,11 +40,11 @@
     "status": "failed",
     "collection_status": "failed",
     "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.8914,
+    "baseline_coverage_ratio": 0.9029,
     "raw_records": 392,
-    "product_rows": 156,
+    "product_rows": 158,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 19
+    "missing_vs_baseline": 17
   }
 ]

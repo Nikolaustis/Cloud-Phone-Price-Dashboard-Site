@@ -805,12 +805,12 @@
       "baseline_promotion_text": "15 days; 日常价",
       "current_promotion_text": "15 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change",
-      "alert_level": "info",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "unchanged",
+      "alert_level": "none",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed."
+      "reason_explanation_zh": "无明显变化。",
+      "reason_explanation_en": "No meaningful change detected."
     },
     {
       "platform": "LDCloud",
@@ -833,12 +833,12 @@
       "baseline_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
       "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -889,12 +889,12 @@
       "baseline_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
       "current_promotion_text": "30 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -917,12 +917,12 @@
       "baseline_promotion_text": "365 days; 日常价",
       "current_promotion_text": "365 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change",
-      "alert_level": "info",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "unchanged",
+      "alert_level": "none",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed."
+      "reason_explanation_zh": "无明显变化。",
+      "reason_explanation_en": "No meaningful change detected."
     },
     {
       "platform": "LDCloud",
@@ -973,12 +973,12 @@
       "baseline_promotion_text": "60 days; Recommend; 日常价",
       "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -1029,12 +1029,12 @@
       "baseline_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
       "current_promotion_text": "90 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore",
-      "reason_code": "stock_status_change; region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "reason_code": "promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -3941,12 +3941,12 @@
       "baseline_promotion_text": "15 days; 日常价",
       "current_promotion_text": "15 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "unchanged",
-      "alert_level": "none",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change",
+      "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "无明显变化。",
-      "reason_explanation_en": "No meaningful change detected."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -3969,12 +3969,12 @@
       "baseline_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
       "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "promo_change",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -3997,12 +3997,12 @@
       "baseline_promotion_text": "3 days; 日常价",
       "current_promotion_text": "3 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "unchanged",
-      "alert_level": "none",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change",
+      "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "无明显变化。",
-      "reason_explanation_en": "No meaningful change detected."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4025,12 +4025,12 @@
       "baseline_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
       "current_promotion_text": "30 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "promo_change",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4053,12 +4053,12 @@
       "baseline_promotion_text": "365 days; 日常价",
       "current_promotion_text": "365 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "unchanged",
-      "alert_level": "none",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change",
+      "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "无明显变化。",
-      "reason_explanation_en": "No meaningful change detected."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4109,12 +4109,12 @@
       "baseline_promotion_text": "60 days; Recommend; 日常价",
       "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "promo_change",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4137,12 +4137,12 @@
       "baseline_promotion_text": "8 days; 日常价",
       "current_promotion_text": "8 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "unchanged",
-      "alert_level": "none",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change",
+      "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "无明显变化。",
-      "reason_explanation_en": "No meaningful change detected."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4165,12 +4165,12 @@
       "baseline_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
       "current_promotion_text": "90 days; 日常价",
       "baseline_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "current_supported_server_regions": "Taiwan; Singapore; United States; Netherlands",
-      "reason_code": "promo_change",
+      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "reason_code": "region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4221,12 +4221,12 @@
       "baseline_promotion_text": "15 days; 日常价",
       "current_promotion_text": "15 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Server region coverage changed."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4249,12 +4249,12 @@
       "baseline_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
       "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4277,12 +4277,12 @@
       "baseline_promotion_text": "3 days; 日常价",
       "current_promotion_text": "3 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Server region coverage changed."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4305,12 +4305,12 @@
       "baseline_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
       "current_promotion_text": "30 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4333,12 +4333,12 @@
       "baseline_promotion_text": "365 days; 日常价",
       "current_promotion_text": "365 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Server region coverage changed."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4389,12 +4389,12 @@
       "baseline_promotion_text": "60 days; Recommend; 日常价",
       "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
@@ -4417,12 +4417,12 @@
       "baseline_promotion_text": "8 days; 日常价",
       "current_promotion_text": "8 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。",
-      "reason_explanation_en": "Server region coverage changed."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed."
     },
     {
       "platform": "LDCloud",
@@ -4445,12 +4445,12 @@
       "baseline_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
       "current_promotion_text": "90 days; 日常价",
       "baseline_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
-      "current_supported_server_regions": "Singapore; Thailand; Korea",
-      "reason_code": "region_supply_change; promo_change",
+      "current_supported_server_regions": "Singapore; Hong Kong",
+      "reason_code": "stock_status_change; region_supply_change; promo_change",
       "alert_level": "info",
       "notes": null,
-      "reason_explanation_zh": "地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
-      "reason_explanation_en": "Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
+      "reason_explanation_zh": "库存状态发生变化。；地区或服务器覆盖发生变化。；主要由活动价或促销文案变化导致。",
+      "reason_explanation_en": "Stock status changed. Server region coverage changed. The change is mainly caused by promotion copy or promotional price changes."
     },
     {
       "platform": "LDCloud",
