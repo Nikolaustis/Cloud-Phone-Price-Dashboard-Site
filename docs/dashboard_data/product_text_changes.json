@@ -3,6 +3,18 @@
     "platform": "LDCloud",
     "product_model": "KVIP",
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 30.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $20.97(40%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 7.99,
@@ -17,11 +29,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 44.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 50.980002,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -42,7 +54,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -77,11 +89,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 17.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 19.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -102,7 +114,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 25.989999,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -219,6 +231,18 @@
     "platform": "LDCloud",
     "product_model": "KVIP",
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 30.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $20.97(40%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 7.99,
@@ -233,11 +257,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 44.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 50.980002,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -258,7 +282,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -293,11 +317,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 17.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 19.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -318,7 +342,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 25.989999,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -339,6 +363,18 @@
     "platform": "LDCloud",
     "product_model": "KVIP",
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 30.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $20.97(40%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 7.99,
@@ -353,11 +389,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 44.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 50.980002,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $32.95 (43%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -378,7 +414,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -413,11 +449,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 17.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 19.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -438,7 +474,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 25.989999,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $13.98 (35%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -459,6 +495,18 @@
     "platform": "LDCloud",
     "product_model": "KVIP",
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 30.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $20.97(40%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 7.99,
@@ -473,8 +521,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 44.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $32.95(42%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 50.980002,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -498,7 +546,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 12.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -521,8 +569,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 17.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $7.99(31%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 19.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -546,10 +594,22 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 25.989999,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 79.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $79.97(33%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "LDCloud",
@@ -569,11 +629,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 110.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 135.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -594,7 +654,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -629,11 +689,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 45.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 59.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -654,7 +714,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 69.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -675,6 +735,18 @@
     "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 79.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $79.97(33%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 21.99,
@@ -689,11 +761,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 110.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 135.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -714,7 +786,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -749,11 +821,11 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 45.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 59.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -774,7 +846,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 69.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -795,6 +867,18 @@
     "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 79.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $79.97(33%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 21.99,
@@ -809,11 +893,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 110.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 135.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -834,7 +918,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -869,11 +953,11 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 45.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 59.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -894,7 +978,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 69.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $52.98 (44%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -915,6 +999,18 @@
     "platform": "LDCloud",
     "product_model": "MVIP",
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 79.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $79.97(33%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "MVIP",
+    "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 21.99,
@@ -929,8 +1025,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 110.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $128.95(54%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 135.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -954,7 +1050,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 39.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -977,8 +1073,8 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 45.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 59.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1002,10 +1098,22 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 69.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "VIP",
+    "config": "VIP / A10 / 3 cores / 4GB / 45GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 24.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $14.97(37%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "LDCloud",
@@ -1025,11 +1133,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 39.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1050,7 +1158,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1085,11 +1193,11 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 13.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 15.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1110,7 +1218,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 20.990001,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1227,6 +1335,18 @@
     "platform": "LDCloud",
     "product_model": "VIP",
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 24.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $14.97(37%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "VIP",
+    "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 6.99,
@@ -1241,11 +1361,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 39.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1266,7 +1386,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1301,11 +1421,11 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 13.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 15.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1326,7 +1446,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 20.990001,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1347,6 +1467,18 @@
     "platform": "LDCloud",
     "product_model": "VIP",
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 24.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $14.97(37%); 七月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "VIP",
+    "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 6.99,
@@ -1361,11 +1493,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.989998,
-    "current_promotion_text": "180 days-June Promo; You Save: $23.95(40%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 39.979998,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $23.95 (39%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1386,7 +1518,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 9.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1421,11 +1553,11 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 13.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $5.99(30%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 15.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1446,7 +1578,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 20.990001,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $9.98 (33%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1467,6 +1599,18 @@
     "platform": "LDCloud",
     "product_model": "XVIP",
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 43.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $35.97(30%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 12.99,
@@ -1481,11 +1625,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 63.99,
-    "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 76.98,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1506,7 +1650,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1541,11 +1685,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 25.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 29.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1566,7 +1710,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 39.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1683,6 +1827,18 @@
     "platform": "LDCloud",
     "product_model": "XVIP",
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 43.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $35.97(30%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 12.99,
@@ -1697,11 +1853,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 63.99,
-    "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 76.98,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1722,7 +1878,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1757,11 +1913,11 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 25.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 29.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1782,7 +1938,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 39.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1803,6 +1959,18 @@
     "platform": "LDCloud",
     "product_model": "XVIP",
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 43.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $35.97(30%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 12.99,
@@ -1817,11 +1985,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 63.99,
-    "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 76.98,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": "180 days-Special Offer; You Save: $51.55 (45%); 4.23-4.28 特价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1842,7 +2010,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1877,11 +2045,11 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 25.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 29.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": "60 days; Recommend; 日常价",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -1902,7 +2070,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 39.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": "90 days-Special Offer; You Save: $21.98 (36%); 4.23-4.28 特价",
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1923,6 +2091,18 @@
     "platform": "LDCloud",
     "product_model": "XVIP",
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
+    "duration_bucket": "other",
+    "duration_display": "120天",
+    "current_price": 43.99,
+    "current_promotion_text": "120 days-Special Offer; You Save: $35.97(30%); 六月：120天特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "XVIP",
+    "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 12.99,
@@ -1937,8 +2117,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 63.99,
-    "current_promotion_text": "180 days-June Promo; You Save: $55.95(47%); 六月特价：35.99、44.99、63.99、110.99",
+    "current_price": 76.98,
+    "current_promotion_text": "180 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1962,7 +2142,7 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 19.99,
-    "current_promotion_text": "30 days; 日常价",
+    "current_promotion_text": "30 days: Extra Free Device; Get 1 Extra 1-Day Device!; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1985,8 +2165,8 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 60,
     "duration_display": "60天",
-    "current_price": 25.99,
-    "current_promotion_text": "60 days-June Promo; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
+    "current_price": 29.99,
+    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -2010,7 +2190,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 39.99,
-    "current_promotion_text": "90 days; 日常价",
+    "current_promotion_text": "90 days: Extra Free Device; Get 1 Extra 7-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
