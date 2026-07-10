@@ -476,7 +476,7 @@
   },
   {
     "sheet": "UG相近配置价格对比",
-    "rows": 1917,
+    "rows": 1926,
     "columns": [
       "UG套餐型号",
       "UG配置",
@@ -517,7 +517,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -538,7 +538,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -559,7 +559,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; Italy; South Korea",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {

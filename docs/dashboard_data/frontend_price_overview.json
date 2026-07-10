@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T01:25:59+00:00",
+  "updated_at": "2026-07-10T02:10:34+00:00",
   "baseline_config_count": 20,
   "core_duration_buckets": [
     1,
@@ -720,7 +720,7 @@
           "product_model": "MVIP",
           "config": "MVIP / Android 10 / 8 cores / 16GB / 256GB",
           "current_price": 2.99,
-          "config_similarity_score": 83.2,
+          "config_similarity_score": 88.2,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
