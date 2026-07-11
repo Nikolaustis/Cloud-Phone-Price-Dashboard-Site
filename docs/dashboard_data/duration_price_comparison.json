@@ -1296,7 +1296,7 @@
             "product_model": "MVIP",
             "config": "MVIP / Android 10 / 8 cores / 16GB / 256GB",
             "current_price": 2.99,
-            "config_similarity_score": 88.2,
+            "config_similarity_score": 83.2,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",

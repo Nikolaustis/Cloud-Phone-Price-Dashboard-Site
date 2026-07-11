@@ -78,7 +78,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 12.99,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -306,7 +306,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 12.99,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -678,7 +678,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 32.989999,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -810,7 +810,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 32.989999,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -942,7 +942,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 32.989999,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1182,7 +1182,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 9.99,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1410,7 +1410,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 9.99,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1674,7 +1674,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 19.990001,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1902,7 +1902,7 @@
     "duration_bucket": "other",
     "duration_display": "45天",
     "current_price": 19.990001,
-    "current_promotion_text": "45 days-Lowet Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -4446,10 +4446,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 81.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
+    "current_promotion_text": null,
     "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4458,10 +4458,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 15.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
+    "current_promotion_text": null,
     "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4470,10 +4470,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 145.989999,
-    "current_promotion_text": "🔥Auto-Renew Deal",
+    "current_promotion_text": null,
     "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4482,10 +4482,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.49,
-    "current_promotion_text": "🔥Auto-Renew Deal",
+    "current_promotion_text": null,
     "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4494,10 +4494,10 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 47.990001,
-    "current_promotion_text": "🔥Auto-Renew Deal",
+    "current_promotion_text": null,
     "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
