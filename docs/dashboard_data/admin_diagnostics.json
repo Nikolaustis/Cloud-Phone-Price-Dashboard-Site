@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-11T02:13:19+00:00",
+  "generated_at_utc": "2026-07-12T02:14:14+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -59,7 +59,7 @@
       "collection_status": "collection_failed",
       "collection_health": "failed",
       "baseline_coverage_status": "full",
-      "baseline_coverage_ratio": 1.0686,
+      "baseline_coverage_ratio": 1.0571,
       "fallback_to_baseline": false,
       "fallback_reason": "",
       "unmatched_current_rows": 0,
@@ -69,7 +69,7 @@
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 551,
+  "fallback_to_baseline_rows": 563,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -145,7 +145,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "120 days-Special Offer; You Save: $20.97(40%); 七月：120天特价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Hong Kong; Korea",
+      "current_supported_server_regions": "Singapore; Thailand; Korea; Hong Kong",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2329,7 +2329,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "25% off for a limited time; 🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Germany; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2355,7 +2355,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "50% OFF For New User; 🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Germany; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2381,7 +2381,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "25% off for a limited time; 🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Germany; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2407,7 +2407,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "25% off for a limited time; 🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Germany; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2433,7 +2433,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "💸Ultimate Promotion 50% OFF; 🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Germany; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -3211,7 +3211,7 @@
       "current_discount_rate": 0.286981,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": null,
+      "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Hong Kong",
       "reason_code": "abnormal_unexplained",
@@ -3237,7 +3237,7 @@
       "current_discount_rate": 0.333472,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": null,
+      "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Hong Kong",
       "reason_code": "abnormal_unexplained",
@@ -3263,7 +3263,7 @@
       "current_discount_rate": 0.270014,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": null,
+      "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Hong Kong",
       "reason_code": "abnormal_unexplained",
@@ -3289,7 +3289,7 @@
       "current_discount_rate": 0.312891,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": null,
+      "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Hong Kong",
       "reason_code": "abnormal_unexplained",
@@ -3315,7 +3315,7 @@
       "current_discount_rate": 0.294161,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": null,
+      "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Hong Kong",
       "reason_code": "abnormal_unexplained",
@@ -3688,8 +3688,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-07-11T02:00:09+00:00",
-    "end_time_utc": "2026-07-11T02:10:03+00:00",
+    "start_time_utc": "2026-07-12T02:00:10+00:00",
+    "end_time_utc": "2026-07-12T02:10:43+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -3699,7 +3699,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 139,
+    "api_candidate_count": 138,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -3737,13 +3737,13 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260711_020009\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260712_020010\\quality_price_report.xlsx",
       "ug_config_count": 132,
       "pairing_rows": 1917,
       "quality_adjusted_rows": 1917,
       "relative_index_rows": 159,
       "critical_alerts": 42,
-      "warning_alerts": 331,
+      "warning_alerts": 333,
       "not_comparable_rows": 32,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 211
@@ -3751,20 +3751,20 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260711_020009\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260712_020010\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 302,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260711_020009\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260712_020010\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 324,
       "ug_config_comparison_rows": 35,
       "price_down_rows": 0
     },
-    "total_records": 2812,
+    "total_records": 2817,
     "records_by_platform": {
       "VSPhone": 1968,
       "Redfinger": 190,
       "LDCloud": 464,
-      "UgPhone": 190
+      "UgPhone": 195
     },
     "missing_field_stats": {
       "platform": 0,
@@ -3783,19 +3783,19 @@
       "storage": 65,
       "price": 0,
       "original_price": 0,
-      "discount_price": 2812,
+      "discount_price": 2817,
       "billing_period": 0,
       "duration": 0,
       "stock_status": 0,
-      "promotion_text": 17,
-      "promotion_start_time": 2812,
-      "promotion_end_time": 2812,
+      "promotion_text": 12,
+      "promotion_start_time": 2817,
+      "promotion_end_time": 2817,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 190,
+      "api_response_path": 195,
       "notes": 0,
       "record_hash": 0
     }

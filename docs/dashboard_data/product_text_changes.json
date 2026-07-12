@@ -4446,10 +4446,10 @@
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 81.99,
-    "current_promotion_text": null,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": null,
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4458,10 +4458,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 15.99,
-    "current_promotion_text": null,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": null,
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4470,10 +4470,10 @@
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 145.989999,
-    "current_promotion_text": null,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": null,
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4482,10 +4482,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.49,
-    "current_promotion_text": null,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": null,
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4494,10 +4494,10 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 47.990001,
-    "current_promotion_text": null,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": null,
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
