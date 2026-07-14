@@ -39,12 +39,12 @@
     "platform": "LDCloud",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.0171,
-    "raw_records": 464,
-    "product_rows": 178,
+    "baseline_coverage_status": "changed",
+    "baseline_coverage_ratio": 0.8171,
+    "raw_records": 414,
+    "product_rows": 143,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 32
   }
 ]

@@ -90,10 +90,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 19.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -318,10 +318,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 19.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -450,10 +450,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 19.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -567,18 +567,6 @@
     "platform": "LDCloud",
     "product_model": "KVIP",
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
-    "duration_bucket": 60,
-    "duration_display": "60天",
-    "current_price": 19.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "LDCloud",
-    "product_model": "KVIP",
-    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "8天",
     "current_price": 4.99,
@@ -690,10 +678,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 59.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -822,10 +810,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 59.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -954,10 +942,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 59.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -1063,18 +1051,6 @@
     "duration_display": "365天",
     "current_price": 269.990001,
     "current_promotion_text": "365 days; 日常价",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "LDCloud",
-    "product_model": "MVIP",
-    "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
-    "duration_bucket": 60,
-    "duration_display": "60天",
-    "current_price": 59.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -1194,10 +1170,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 15.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -1422,10 +1398,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 15.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -1554,10 +1530,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 15.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -1686,10 +1662,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 29.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -1914,10 +1890,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 29.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -2046,10 +2022,10 @@
     "duration_bucket": 60,
     "duration_display": "60天",
     "current_price": 29.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
+    "current_promotion_text": "60 days; Recommend; 日常价",
     "previous_promotion_text": "60 days; Recommend; 日常价",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "LDCloud",
@@ -2155,18 +2131,6 @@
     "duration_display": "365天",
     "current_price": 149.989997,
     "current_promotion_text": "365 days; 日常价",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "LDCloud",
-    "product_model": "XVIP",
-    "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
-    "duration_bucket": 60,
-    "duration_display": "60天",
-    "current_price": 29.99,
-    "current_promotion_text": "60 days: Extra Free Device; Get 1 Extra 3-Day Device！; 送新机器",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"

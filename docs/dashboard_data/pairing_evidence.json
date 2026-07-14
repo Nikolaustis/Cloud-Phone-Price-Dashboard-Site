@@ -7799,7 +7799,7 @@
     "competitor_cpu": "4 cores",
     "competitor_ram": "5.3GB",
     "competitor_storage": "64GB",
-    "competitor_duration": "120 day",
+    "competitor_duration": "90 day",
     "config_similarity_score": 76.12,
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
