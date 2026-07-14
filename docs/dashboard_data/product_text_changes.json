@@ -4494,10 +4494,10 @@
     "duration_bucket": 1,
     "duration_display": "1天",
     "current_price": 2.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_promotion_text": "25% off for a limited time",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4506,130 +4506,70 @@
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 12.99,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_promotion_text": "25% off for a limited time",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
     "product_model": "SVIP",
     "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
-    "duration_bucket": 180,
-    "duration_display": "180天",
-    "current_price": 129.99,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "SVIP",
-    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 23.99,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "SVIP",
-    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 249.989996,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "SVIP",
-    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 5.99,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "SVIP",
-    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 69.99,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "SVIP",
-    "config": "SVIP / Anan / 8 cores / 16GB / 200GB",
     "duration_bucket": 180,
     "duration_display": "180天",
     "current_price": 124.990002,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "SVIP",
-    "config": "SVIP / Anan / 8 cores / 16GB / 200GB",
+    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 22.99,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "SVIP",
-    "config": "SVIP / Anan / 8 cores / 16GB / 200GB",
+    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 244.989995,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "SVIP",
-    "config": "SVIP / Anan / 8 cores / 16GB / 200GB",
+    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.49,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "SVIP",
-    "config": "SVIP / Anan / 8 cores / 16GB / 200GB",
+    "config": "SVIP / A10 / 8 cores / 16GB / 200GB",
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 66.99,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -4638,10 +4578,10 @@
     "duration_bucket": 1,
     "duration_display": "1天",
     "current_price": 1.19,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_promotion_text": "25% off for a limited time",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4650,10 +4590,10 @@
     "duration_bucket": 15,
     "duration_display": "15天",
     "current_price": 5.29,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_promotion_text": "25% off for a limited time",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4661,11 +4601,11 @@
     "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 37.990002,
-    "current_promotion_text": "25% off for a limited time; activity",
+    "current_price": 32.989998,
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "promotion_text_changed": true,
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
@@ -4674,106 +4614,46 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 6.99,
-    "current_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
+    "current_promotion_text": "50% OFF For New User",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "UVIP",
-    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 74.990004,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "UVIP",
-    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 2.69,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "UVIP",
-    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 18.99,
-    "current_promotion_text": "25% off for a limited time; activity",
-    "previous_promotion_text": "25% off for a limited time; activity",
-    "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "UVIP",
-    "config": "UVIP / Anan / 3 cores / 3GB / 30GB",
-    "duration_bucket": 180,
-    "duration_display": "180天",
-    "current_price": 32.989998,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
     "product_model": "UVIP",
-    "config": "UVIP / Anan / 3 cores / 3GB / 30GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 7.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "UVIP",
-    "config": "UVIP / Anan / 3 cores / 3GB / 30GB",
+    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 365,
     "duration_display": "365天",
     "current_price": 69.990003,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "UVIP",
-    "config": "UVIP / Anan / 3 cores / 3GB / 30GB",
+    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 2.19,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "UgPhone",
     "product_model": "UVIP",
-    "config": "UVIP / Anan / 3 cores / 3GB / 30GB",
+    "config": "UVIP / A10 / 3 cores / 3GB / 30GB",
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 19.989999,
     "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
+    "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "VSPhone",
