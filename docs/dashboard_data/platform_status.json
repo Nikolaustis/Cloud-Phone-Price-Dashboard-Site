@@ -3,13 +3,13 @@
     "platform": "UgPhone",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "partial",
-    "baseline_coverage_ratio": 0.7172,
-    "raw_records": 177,
-    "product_rows": 71,
+    "baseline_coverage_status": "full",
+    "baseline_coverage_ratio": 1.2929,
+    "raw_records": 225,
+    "product_rows": 128,
     "priced_product_rows": 0,
     "baseline_rows": 99,
-    "missing_vs_baseline": 28
+    "missing_vs_baseline": 0
   },
   {
     "platform": "VSPhone",
@@ -39,12 +39,12 @@
     "platform": "LDCloud",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.8171,
-    "raw_records": 414,
-    "product_rows": 143,
+    "baseline_coverage_status": "full",
+    "baseline_coverage_ratio": 1.0743,
+    "raw_records": 464,
+    "product_rows": 188,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 32
+    "missing_vs_baseline": 0
   }
 ]
