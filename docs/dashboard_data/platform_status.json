@@ -4,9 +4,9 @@
     "status": "failed",
     "collection_status": "failed",
     "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.5556,
-    "raw_records": 396,
-    "product_rows": 154,
+    "baseline_coverage_ratio": 1.4343,
+    "raw_records": 384,
+    "product_rows": 142,
     "priced_product_rows": 0,
     "baseline_rows": 99,
     "missing_vs_baseline": 0
@@ -39,12 +39,12 @@
     "platform": "LDCloud",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.0743,
+    "baseline_coverage_status": "changed",
+    "baseline_coverage_ratio": 0.9143,
     "raw_records": 464,
-    "product_rows": 188,
+    "product_rows": 160,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 15
   }
 ]

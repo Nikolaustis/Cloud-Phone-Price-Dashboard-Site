@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T07:24:24+00:00",
-  "baseline_config_count": 18,
+  "updated_at": "2026-07-15T01:43:55+00:00",
+  "baseline_config_count": 17,
   "core_duration_buckets": [
     1,
     3,
@@ -12,14 +12,14 @@
     180,
     365
   ],
-  "rows_compared": 110,
+  "rows_compared": 105,
   "market_position_counts": {
     "high": 15,
-    "competitive": 29,
+    "competitive": 25,
     "below_market": 50,
-    "slightly_high": 16
+    "slightly_high": 15
   },
-  "above_market_count": 31,
+  "above_market_count": 30,
   "below_market_count": 50,
   "attention_items": [
     {
@@ -800,7 +800,7 @@
       "exclude_from_core_price_comparison": false,
       "exclusion_reason": "",
       "ugphone_price": 19.989999,
-      "has_price_change": true,
+      "has_price_change": false,
       "promotion_text_changed": true,
       "competitors": {
         "VSPhone": {
@@ -868,9 +868,9 @@
       "ugphone_relative_index": 122.375262,
       "market_position_label": "high",
       "promotion_text": null,
-      "price_change_pct": 0.052659,
-      "reason_code": "price_up",
-      "alert_level": "warning"
+      "price_change_pct": 0.0,
+      "reason_code": "promotion_text_changed",
+      "alert_level": "info"
     },
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -937,7 +937,7 @@
           "product_model": "KVIP",
           "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
           "current_price": 25.989999,
-          "config_similarity_score": 81.67,
+          "config_similarity_score": 83.33,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",

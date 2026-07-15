@@ -1,11 +1,11 @@
 {
-  "start_time_utc": "2026-07-14T07:05:13+00:00",
-  "end_time_utc": "2026-07-14T07:24:24+00:00",
+  "start_time_utc": "2026-07-15T01:14:22+00:00",
+  "end_time_utc": "2026-07-15T01:43:55+00:00",
   "records_by_platform": {
     "VSPhone": 1968,
     "Redfinger": 190,
     "LDCloud": 464,
-    "UgPhone": 396
+    "UgPhone": 384
   },
   "blocked_pages": {},
   "failed_pages": {},
@@ -13,23 +13,23 @@
   "baseline_monitor": {
     "baseline_found": true,
     "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-    "updated_baseline_path": "output\\cloud_phone_monitor_20260714_070513\\baseline_products_updated.xlsx",
+    "updated_baseline_path": "output\\cloud_phone_monitor_20260715_011422\\baseline_products_updated.xlsx",
     "updated_baseline_price_rows": 331,
-    "daily_changes_path": "output\\cloud_phone_monitor_20260714_070513\\daily_changes.xlsx",
+    "daily_changes_path": "output\\cloud_phone_monitor_20260715_011422\\daily_changes.xlsx",
     "comparison_rows": 431,
     "alert_rows": 324,
     "ug_config_comparison_rows": 35,
-    "price_down_rows": 8
+    "price_down_rows": 0
   },
   "quality_price_monitor": {
     "enabled": true,
-    "report_path": "output\\cloud_phone_monitor_20260714_070513\\quality_price_report.xlsx",
-    "ug_config_count": 110,
-    "pairing_rows": 1287,
-    "quality_adjusted_rows": 1287,
-    "relative_index_rows": 110,
+    "report_path": "output\\cloud_phone_monitor_20260715_011422\\quality_price_report.xlsx",
+    "ug_config_count": 105,
+    "pairing_rows": 1242,
+    "quality_adjusted_rows": 1242,
+    "relative_index_rows": 105,
     "critical_alerts": 42,
-    "warning_alerts": 283,
+    "warning_alerts": 290,
     "not_comparable_rows": 6,
     "input_basis": "baseline_with_current_overlay",
     "fallback_baseline_rows": 182
@@ -51,20 +51,20 @@
     "storage": 65,
     "price": 0,
     "original_price": 0,
-    "discount_price": 3018,
+    "discount_price": 3006,
     "billing_period": 0,
     "duration": 0,
     "purchase_mode": 2622,
     "stock_status": 0,
-    "promotion_text": 1,
-    "promotion_start_time": 3018,
-    "promotion_end_time": 3018,
+    "promotion_text": 0,
+    "promotion_start_time": 3006,
+    "promotion_end_time": 3006,
     "raw_text": 0,
     "extraction_method": 0,
     "confidence": 0,
     "screenshot_path": 0,
     "html_path": 0,
-    "api_response_path": 396,
+    "api_response_path": 384,
     "notes": 0,
     "record_hash": 0
   }
