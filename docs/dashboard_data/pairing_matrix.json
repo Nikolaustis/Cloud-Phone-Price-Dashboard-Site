@@ -12,7 +12,7 @@
         "competitor_platform": "VSPhone",
         "competitor_product_model": "Basic",
         "competitor_config": "Basic / Android 10 / 6 cores / 4GB / 32GB",
-        "config_similarity_score": 80.33,
+        "config_similarity_score": 82.33,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same",
@@ -418,11 +418,11 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "XVIP",
-        "competitor_config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
-        "config_similarity_score": 87.2,
+        "competitor_config": "XVIP / Android 12 / 8 cores / 16GB / 256GB",
+        "config_similarity_score": 89.2,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: XVIP / 8C / 16GB / 256GB，强配对。; android_same; cpu_same; ram_same; storage_competitor_higher; region_no_overlap; duration_same",
+        "pairing_notes": "手工推荐: XVIP / 8C / 16GB / 256GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_competitor_higher; region_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       },
@@ -727,7 +727,7 @@
         "competitor_platform": "Redfinger",
         "competitor_product_model": "SVIP",
         "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
-        "config_similarity_score": 92,
+        "config_similarity_score": 92.5,
         "comparability_level": "strong_match",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_overlap; duration_same",
@@ -738,10 +738,54 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "XVIP",
         "competitor_config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
-        "config_similarity_score": 88.06,
+        "config_similarity_score": 89.06,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  },
+  {
+    "ug_config_id": "mvip___android_13_0___8_cores___8gb___128gb",
+    "ug_config": "MVIP / Android 13.0 / 8 cores / 8GB / 128GB",
+    "ug_product_model": "MVIP",
+    "android_version": "13.0",
+    "cpu": "8 cores",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "XVIP",
+        "competitor_config": "XVIP / Android 13 / 8 cores / 8GB / 128GB",
+        "config_similarity_score": 100,
+        "comparability_level": "strong_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "SVIP",
+        "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+        "config_similarity_score": 87,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "XVIP",
+        "competitor_config": "XVIP / Android 12 / 8 cores / 8GB / 90GB",
+        "config_similarity_score": 77.06,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
