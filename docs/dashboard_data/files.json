@@ -3,42 +3,42 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 3080162,
+    "size_bytes": 3157031,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 137026,
+    "size_bytes": 141527,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 14442171,
+    "size_bytes": 14554464,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 177112,
+    "size_bytes": 180934,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
     "path": "output\\latest\\baseline_products_updated.xlsx",
     "exists": true,
-    "size_bytes": 139682,
+    "size_bytes": 139750,
     "safe_to_open": true
   },
   {
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 330731,
+    "size_bytes": 332675,
     "safe_to_open": true
   },
   {
@@ -59,35 +59,35 @@
     "name": "dashboard_data/pairing_matrix.json",
     "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
     "exists": true,
-    "size_bytes": 37950,
+    "size_bytes": 37948,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 405274,
+    "size_bytes": 406241,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json",
     "path": "output\\latest\\dashboard_data\\price_trends.json",
     "exists": true,
-    "size_bytes": 18813672,
+    "size_bytes": 19078193,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
     "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
     "exists": true,
-    "size_bytes": 678943,
+    "size_bytes": 679199,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
     "path": "output\\latest\\dashboard_data\\product_text_changes.json",
     "exists": true,
-    "size_bytes": 225139,
+    "size_bytes": 225636,
     "safe_to_open": true
   },
   {
