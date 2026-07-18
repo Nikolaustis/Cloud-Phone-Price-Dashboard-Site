@@ -53,11 +53,11 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.39,
-    "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
+    "current_price": 12.99,
+    "current_promotion_text": "30 days; 日常价",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -77,10 +77,10 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 6.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 6.994999,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -281,11 +281,11 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.39,
-    "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
+    "current_price": 12.99,
+    "current_promotion_text": "30 days; 日常价",
     "previous_promotion_text": "30 Days-Discord Exclusive; Flash Sale⚡️; 4.28上午秒杀; 30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -305,10 +305,10 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 6.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 6.994999,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -413,11 +413,11 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.39,
-    "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
+    "current_price": 12.99,
+    "current_promotion_text": "30 days; 日常价",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "price_up"
   },
   {
     "platform": "LDCloud",
@@ -437,10 +437,10 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 6.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 6.994999,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -545,8 +545,8 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.39,
-    "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO; 30 days; 日常价",
+    "current_price": 12.99,
+    "current_promotion_text": "30 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
@@ -562,6 +562,18 @@
     "previous_promotion_text": null,
     "promotion_text_changed": true,
     "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
+    "duration_display": "45天",
+    "current_price": 6.994999,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
   },
   {
     "platform": "LDCloud",
@@ -645,7 +657,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -777,7 +789,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -909,7 +921,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; New User Offer; 新用户特惠; 30 days; 日常价; 30 days-Team Pack; Get 5 Devices in total; 团购批量价格",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1157,8 +1169,8 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 9.99,
-    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_price": 5.745,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1385,8 +1397,8 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 9.99,
-    "current_promotion_text": "45 days-Lowest Ever!; Region non-changeable; 45天特价（不可更换地区）",
+    "current_price": 5.745,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
     "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
@@ -1517,10 +1529,10 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 4.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 5.745,
+    "current_promotion_text": "45 days-Bulk Discount; Start from 2 Devices; 2台起售",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1629,7 +1641,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1857,7 +1869,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",
@@ -1989,7 +2001,7 @@
     "current_promotion_text": "30 days-Ragnarok Offer; Support ROOC Launch Power; 新游戏折扣：RO",
     "previous_promotion_text": "30 days; 日常价; 30 days; New User Offer; 新用户特惠",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "LDCloud",

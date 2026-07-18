@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T01:22:13+00:00",
+  "updated_at": "2026-07-18T01:22:37+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -16,12 +16,12 @@
   "market_position_counts": {
     "high": 15,
     "competitive": 29,
-    "below_market": 46,
+    "below_market": 48,
     "unknown": 3,
-    "slightly_high": 17
+    "slightly_high": 15
   },
-  "above_market_count": 32,
-  "below_market_count": 46,
+  "above_market_count": 30,
+  "below_market_count": 48,
   "attention_items": [
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
