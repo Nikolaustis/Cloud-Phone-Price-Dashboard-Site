@@ -517,7 +517,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; South Korea; Italy; Japan",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -538,7 +538,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; South Korea; Italy; Japan",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -559,7 +559,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; South Korea; Italy; Japan",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -590,19 +590,19 @@
         "UG 30天等效实付价": 35.7,
         "竞品平台": "Redfinger",
         "竞品套餐型号": "VIP",
-        "竞品配置": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
+        "竞品配置": "VIP / Android 12 / 8 cores / 4GB / 64GB",
         "竞品购买天数": 1,
         "竞品30天等效实付价": 29.7,
         "质量调整系数": 0.75,
         "质量调整后30天价": 22.275,
         "调整后价差": -13.425,
         "调整后价差比例": -0.37605,
-        "配置相似度分": 67,
+        "配置相似度分": 66,
         "可比性等级": "weak_match",
         "配对来源": "manual_mapping",
         "活动文案": "≈0.99/day",
-        "支持服务器地区": "Taiwan; Thailand; United States; Vietnam; Brazil",
-        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=15; goodsClassifyId=20; source_product_name=1-Day; server_code=TW_IDC_04; server_code=TH_IDC_01; server_code=US_IDC_01; new_current_product_not_in_baseline; device_count_defaulted_to_1"
+        "支持服务器地区": "Singapore; Hongkong; Thailand; Hongkong2; Taiwan; United States",
+        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; signed_getGoods_api; classifyValue=15; goodsClassifyId=26; source_product_name=1-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1"
       }
     ]
   }
