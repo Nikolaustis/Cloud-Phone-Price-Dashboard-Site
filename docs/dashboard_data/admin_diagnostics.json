@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-21T01:24:03+00:00",
+  "generated_at_utc": "2026-07-22T06:40:55+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -11,7 +11,7 @@
       "collection_status": "collection_failed",
       "collection_health": "failed",
       "baseline_coverage_status": "full",
-      "baseline_coverage_ratio": 1.6263,
+      "baseline_coverage_ratio": 1.5152,
       "fallback_to_baseline": false,
       "fallback_reason": "",
       "unmatched_current_rows": 0,
@@ -26,12 +26,12 @@
       "login_error_message": "",
       "collection_status": "collection_failed",
       "collection_health": "failed",
-      "baseline_coverage_status": "changed",
-      "baseline_coverage_ratio": 0.9704,
-      "fallback_to_baseline": true,
-      "fallback_reason": "current_missing_used_baseline",
+      "baseline_coverage_status": "full",
+      "baseline_coverage_ratio": 1.0,
+      "fallback_to_baseline": false,
+      "fallback_reason": "",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 5
+      "missing_baseline_rows": 0
     },
     {
       "platform": "Redfinger",
@@ -58,18 +58,18 @@
       "login_error_message": "",
       "collection_status": "collection_failed",
       "collection_health": "failed",
-      "baseline_coverage_status": "changed",
-      "baseline_coverage_ratio": 0.9486,
+      "baseline_coverage_status": "partial",
+      "baseline_coverage_ratio": 0.7486,
       "fallback_to_baseline": true,
       "fallback_reason": "current_missing_used_baseline",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 9
+      "missing_baseline_rows": 44
     }
   ],
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 456,
+  "fallback_to_baseline_rows": 442,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -117,7 +117,7 @@
       "current_discount_rate": 0.422761,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": "180 days-July Promo; You Save: $32.95(42%); 六月180天特价：35.99、44.99、63.99、110.99; 180 days; 日常价",
+      "current_promotion_text": "180 days-July Promo; You Save: $32.95(42%); 六月180天特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Taiwan",
       "reason_code": "abnormal_unexplained",
@@ -299,7 +299,7 @@
       "current_discount_rate": 0.537426,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": "180 days-July Promo; You Save: $128.95(54%); 六月180天特价：35.99、44.99、63.99、110.99; 180 days; 日常价",
+      "current_promotion_text": "180 days-July Promo; You Save: $128.95(54%); 六月180天特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Taiwan",
       "reason_code": "abnormal_unexplained",
@@ -481,7 +481,7 @@
       "current_discount_rate": 0.466483,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
-      "current_promotion_text": "180 days-July Promo; You Save: $55.95(47%); 六月180天特价：35.99、44.99、63.99、110.99; 180 days; 日常价",
+      "current_promotion_text": "180 days-July Promo; You Save: $55.95(47%); 六月180天特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": null,
       "current_supported_server_regions": "Taiwan",
       "reason_code": "abnormal_unexplained",
@@ -1679,7 +1679,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -1705,7 +1705,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -1731,7 +1731,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -1757,7 +1757,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -1783,7 +1783,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2069,7 +2069,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2095,7 +2095,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2121,7 +2121,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2147,7 +2147,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2173,7 +2173,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2329,7 +2329,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2355,7 +2355,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2381,7 +2381,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2407,7 +2407,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2433,7 +2433,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Hong Kong; Singapore",
+      "current_supported_server_regions": "America; Germany; Japan; Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product"
@@ -2570,8 +2570,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-07-21T01:00:14+00:00",
-    "end_time_utc": "2026-07-21T01:21:42+00:00",
+    "start_time_utc": "2026-07-22T06:10:46+00:00",
+    "end_time_utc": "2026-07-22T06:33:48+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -2581,7 +2581,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 168,
+    "api_candidate_count": 164,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -2605,34 +2605,34 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260721_010014\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260722_061046\\quality_price_report.xlsx",
       "ug_config_count": 110,
       "pairing_rows": 1287,
       "quality_adjusted_rows": 1287,
       "relative_index_rows": 110,
-      "critical_alerts": 39,
-      "warning_alerts": 242,
+      "critical_alerts": 28,
+      "warning_alerts": 225,
       "not_comparable_rows": 6,
       "input_basis": "baseline_with_current_overlay",
-      "fallback_baseline_rows": 205
+      "fallback_baseline_rows": 200
     },
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260721_010014\\baseline_products_updated.xlsx",
-      "updated_baseline_price_rows": 308,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260721_010014\\daily_changes.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260722_061046\\baseline_products_updated.xlsx",
+      "updated_baseline_price_rows": 313,
+      "daily_changes_path": "output\\cloud_phone_monitor_20260722_061046\\daily_changes.xlsx",
       "comparison_rows": 431,
-      "alert_rows": 374,
+      "alert_rows": 363,
       "ug_config_comparison_rows": 35,
-      "price_down_rows": 24
+      "price_down_rows": 0
     },
-    "total_records": 2973,
+    "total_records": 2932,
     "records_by_platform": {
-      "VSPhone": 1968,
+      "VSPhone": 2028,
       "Redfinger": 181,
-      "LDCloud": 392,
-      "UgPhone": 432
+      "LDCloud": 339,
+      "UgPhone": 384
     },
     "missing_field_stats": {
       "platform": 0,
@@ -2651,20 +2651,20 @@
       "storage": 65,
       "price": 0,
       "original_price": 0,
-      "discount_price": 2973,
+      "discount_price": 2932,
       "billing_period": 0,
       "duration": 0,
-      "purchase_mode": 2541,
+      "purchase_mode": 2548,
       "stock_status": 0,
       "promotion_text": 1,
-      "promotion_start_time": 2973,
-      "promotion_end_time": 2973,
+      "promotion_start_time": 2932,
+      "promotion_end_time": 2932,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 432,
+      "api_response_path": 384,
       "notes": 0,
       "record_hash": 0
     }

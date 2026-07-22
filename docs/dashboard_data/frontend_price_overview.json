@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T01:21:42+00:00",
+  "updated_at": "2026-07-22T06:33:48+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -970,7 +970,7 @@
           "product_model": "XVIP",
           "config": "XVIP / Android 10 / 8 cores / 8GB / 128GB",
           "current_price": null,
-          "config_similarity_score": 89.33,
+          "config_similarity_score": 89,
           "comparability_level": "adjusted_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
@@ -986,7 +986,7 @@
           "product_model": "SVIP",
           "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
           "current_price": null,
-          "config_similarity_score": 82.67,
+          "config_similarity_score": 83,
           "comparability_level": "adjusted_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
@@ -1002,7 +1002,7 @@
           "product_model": "XVIP",
           "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
           "current_price": 63.99,
-          "config_similarity_score": 87.4,
+          "config_similarity_score": 88.06,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",

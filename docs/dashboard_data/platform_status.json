@@ -4,9 +4,9 @@
     "status": "failed",
     "collection_status": "failed",
     "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.6263,
-    "raw_records": 432,
-    "product_rows": 161,
+    "baseline_coverage_ratio": 1.5152,
+    "raw_records": 384,
+    "product_rows": 150,
     "priced_product_rows": 0,
     "baseline_rows": 99,
     "missing_vs_baseline": 0
@@ -15,13 +15,13 @@
     "platform": "VSPhone",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.9704,
-    "raw_records": 1968,
-    "product_rows": 164,
+    "baseline_coverage_status": "full",
+    "baseline_coverage_ratio": 1.0,
+    "raw_records": 2028,
+    "product_rows": 169,
     "priced_product_rows": 0,
     "baseline_rows": 169,
-    "missing_vs_baseline": 5
+    "missing_vs_baseline": 0
   },
   {
     "platform": "Redfinger",
@@ -39,12 +39,12 @@
     "platform": "LDCloud",
     "status": "failed",
     "collection_status": "failed",
-    "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.9486,
-    "raw_records": 392,
-    "product_rows": 166,
+    "baseline_coverage_status": "partial",
+    "baseline_coverage_ratio": 0.7486,
+    "raw_records": 339,
+    "product_rows": 131,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 9
+    "missing_vs_baseline": 44
   }
 ]
