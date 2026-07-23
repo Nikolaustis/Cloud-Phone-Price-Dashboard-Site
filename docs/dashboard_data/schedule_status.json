@@ -2,10 +2,10 @@
   "scheduler_enabled": false,
   "scheduler_type": "manual",
   "schedule_time_local": "10:00",
-  "last_run_time": "2026-07-22T06:33:48+00:00",
+  "last_run_time": "2026-07-23T01:41:24+00:00",
   "last_run_status": "success",
   "next_run_time_estimated": "2026-07-23T10:00:00+08:00",
-  "last_run_duration_seconds": 1382,
+  "last_run_duration_seconds": 1194,
   "data_freshness_status": "fresh",
   "stale_after_hours": 30,
   "logs_path": "output\\scheduler_logs"
