@@ -5,7 +5,7 @@
     "collection_status": "failed",
     "baseline_coverage_status": "full",
     "baseline_coverage_ratio": 1.5657,
-    "raw_records": 384,
+    "raw_records": 408,
     "product_rows": 155,
     "priced_product_rows": 0,
     "baseline_rows": 99,
@@ -16,9 +16,9 @@
     "status": "failed",
     "collection_status": "failed",
     "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.0,
-    "raw_records": 2028,
-    "product_rows": 169,
+    "baseline_coverage_ratio": 1.8935,
+    "raw_records": 3840,
+    "product_rows": 320,
     "priced_product_rows": 0,
     "baseline_rows": 169,
     "missing_vs_baseline": 0
@@ -40,11 +40,11 @@
     "status": "failed",
     "collection_status": "failed",
     "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.8114,
+    "baseline_coverage_ratio": 0.8571,
     "raw_records": 392,
-    "product_rows": 142,
+    "product_rows": 150,
     "priced_product_rows": 0,
     "baseline_rows": 175,
-    "missing_vs_baseline": 33
+    "missing_vs_baseline": 25
   }
 ]

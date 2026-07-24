@@ -1355,14 +1355,14 @@
       "ug_config": "KVIP / Android 12.0 / 6 cores / 5.3GB / 64GB",
       "duration_days": 7,
       "ug_effective_price_30d": 16.242857,
-      "competitor_median_quality_adjusted_price_30d": 13.348516,
-      "core_match_rows": 6,
-      "weak_match_rows": 2,
-      "weak_median_quality_adjusted_price_30d": 22.071609,
-      "ugphone_relative_index": 121.682872,
-      "market_position_label": "high",
-      "alert_level": "critical",
-      "reason_code": "abnormal_unexplained",
+      "competitor_median_quality_adjusted_price_30d": 17.087088,
+      "core_match_rows": 8,
+      "weak_match_rows": 0,
+      "weak_median_quality_adjusted_price_30d": null,
+      "ugphone_relative_index": 95.059246,
+      "market_position_label": "competitive",
+      "alert_level": "none",
+      "reason_code": "unchanged",
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
     {
@@ -1370,11 +1370,11 @@
       "ug_config": "KVIP / Android 12.0 / 6 cores / 5.3GB / 64GB",
       "duration_days": 30,
       "ug_effective_price_30d": 9.99,
-      "competitor_median_quality_adjusted_price_30d": 10.232442,
-      "core_match_rows": 8,
-      "weak_match_rows": 1,
-      "weak_median_quality_adjusted_price_30d": 10.682477,
-      "ugphone_relative_index": 97.630649,
+      "competitor_median_quality_adjusted_price_30d": 10.682477,
+      "core_match_rows": 9,
+      "weak_match_rows": 0,
+      "weak_median_quality_adjusted_price_30d": null,
+      "ugphone_relative_index": 93.517636,
       "market_position_label": "competitive",
       "alert_level": "none",
       "reason_code": "unchanged",
@@ -1385,13 +1385,13 @@
       "ug_config": "KVIP / Android 12.0 / 6 cores / 5.3GB / 64GB",
       "duration_days": 90,
       "ug_effective_price_30d": 9.996667,
-      "competitor_median_quality_adjusted_price_30d": 7.756111,
-      "core_match_rows": 6,
-      "weak_match_rows": 2,
-      "weak_median_quality_adjusted_price_30d": 8.950202,
-      "ugphone_relative_index": 128.887622,
-      "market_position_label": "high",
-      "alert_level": "critical",
+      "competitor_median_quality_adjusted_price_30d": 8.728654,
+      "core_match_rows": 8,
+      "weak_match_rows": 0,
+      "weak_median_quality_adjusted_price_30d": null,
+      "ugphone_relative_index": 114.527016,
+      "market_position_label": "slightly_high",
+      "alert_level": "warning",
       "reason_code": "abnormal_unexplained",
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
@@ -1400,11 +1400,11 @@
       "ug_config": "KVIP / Android 12.0 / 6 cores / 5.3GB / 64GB",
       "duration_days": 180,
       "ug_effective_price_30d": 8.831667,
-      "competitor_median_quality_adjusted_price_30d": 7.693782,
-      "core_match_rows": 5,
-      "weak_match_rows": 4,
-      "weak_median_quality_adjusted_price_30d": 9.818578,
-      "ugphone_relative_index": 114.78967,
+      "competitor_median_quality_adjusted_price_30d": 7.743108,
+      "core_match_rows": 6,
+      "weak_match_rows": 3,
+      "weak_median_quality_adjusted_price_30d": 10.260985,
+      "ugphone_relative_index": 114.058425,
       "market_position_label": "slightly_high",
       "alert_level": "warning",
       "reason_code": "abnormal_unexplained",
@@ -1415,14 +1415,14 @@
       "ug_config": "KVIP / Android 12.0 / 6 cores / 5.3GB / 64GB",
       "duration_days": 365,
       "ug_effective_price_30d": 6.410137,
-      "competitor_median_quality_adjusted_price_30d": 5.903301,
-      "core_match_rows": 6,
-      "weak_match_rows": 2,
-      "weak_median_quality_adjusted_price_30d": 6.593547,
-      "ugphone_relative_index": 108.585628,
-      "market_position_label": "slightly_high",
-      "alert_level": "warning",
-      "reason_code": "abnormal_unexplained",
+      "competitor_median_quality_adjusted_price_30d": 6.629119,
+      "core_match_rows": 8,
+      "weak_match_rows": 0,
+      "weak_median_quality_adjusted_price_30d": null,
+      "ugphone_relative_index": 96.696672,
+      "market_position_label": "competitive",
+      "alert_level": "none",
+      "reason_code": "unchanged",
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
     {
@@ -1658,11 +1658,11 @@
     },
     {
       "name": "competitive",
-      "value": 30
+      "value": 32
     },
     {
       "name": "high",
-      "value": 34
+      "value": 32
     },
     {
       "name": "slightly_high",
@@ -1672,11 +1672,11 @@
   "alert_distribution": [
     {
       "name": "critical",
-      "value": 34
+      "value": 32
     },
     {
       "name": "none",
-      "value": 54
+      "value": 56
     },
     {
       "name": "warning",

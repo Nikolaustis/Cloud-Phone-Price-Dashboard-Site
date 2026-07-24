@@ -4449,7 +4449,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4461,7 +4461,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4485,7 +4485,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4509,7 +4509,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4521,7 +4521,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4545,7 +4545,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4569,7 +4569,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4581,7 +4581,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4605,7 +4605,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4629,7 +4629,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4641,7 +4641,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4665,7 +4665,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4689,7 +4689,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4701,7 +4701,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4725,7 +4725,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4749,7 +4749,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4761,7 +4761,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4785,7 +4785,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4809,7 +4809,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4821,7 +4821,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4845,7 +4845,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4869,7 +4869,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4881,7 +4881,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4905,7 +4905,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4929,7 +4929,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4941,7 +4941,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -4965,7 +4965,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4989,7 +4989,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5001,7 +5001,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5025,7 +5025,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5049,7 +5049,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5061,7 +5061,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5085,7 +5085,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5109,7 +5109,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5121,7 +5121,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5145,7 +5145,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5169,7 +5169,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5181,7 +5181,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5205,7 +5205,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5229,7 +5229,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5241,7 +5241,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5265,7 +5265,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5289,7 +5289,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5301,7 +5301,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5325,7 +5325,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5349,7 +5349,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5361,7 +5361,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5385,7 +5385,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5409,7 +5409,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5421,7 +5421,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5445,7 +5445,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5469,7 +5469,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5481,7 +5481,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5505,7 +5505,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5529,7 +5529,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5541,7 +5541,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5565,7 +5565,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5589,7 +5589,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5601,7 +5601,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5625,7 +5625,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5649,7 +5649,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5673,7 +5673,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5697,7 +5697,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5721,7 +5721,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5745,7 +5745,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5769,7 +5769,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5793,7 +5793,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5817,7 +5817,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5841,7 +5841,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5865,7 +5865,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5889,7 +5889,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5913,7 +5913,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5937,7 +5937,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -5961,7 +5961,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -5985,7 +5985,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6009,7 +6009,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6021,7 +6021,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -6045,7 +6045,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6069,7 +6069,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6081,7 +6081,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -6105,7 +6105,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6129,7 +6129,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6141,7 +6141,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -6165,7 +6165,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6189,7 +6189,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6201,7 +6201,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -6225,7 +6225,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6249,7 +6249,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -6261,7 +6261,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "VSPhone",
@@ -6285,7 +6285,7 @@
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
