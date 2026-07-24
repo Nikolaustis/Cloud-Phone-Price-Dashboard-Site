@@ -4353,7 +4353,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -4437,7 +4437,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_up"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "VSPhone",
@@ -4445,11 +4445,11 @@
     "config": "Basic / A10 / 6 cores / 4GB / 32GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.45,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4457,11 +4457,11 @@
     "config": "Basic / A10 / 6 cores / 4GB / 32GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
+    "current_price": 3.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4481,11 +4481,11 @@
     "config": "Basic / A10 / 6 cores / 4GB / 32GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.99,
+    "current_price": 1.1,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4505,11 +4505,11 @@
     "config": "Basic / A13 / 6 cores / 4GB / 32GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.45,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4517,11 +4517,11 @@
     "config": "Basic / A13 / 6 cores / 4GB / 32GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
+    "current_price": 3.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4541,11 +4541,11 @@
     "config": "Basic / A13 / 6 cores / 4GB / 32GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.99,
+    "current_price": 1.1,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4565,11 +4565,11 @@
     "config": "Basic / A14 / 6 cores / 4GB / 32GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.45,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4577,11 +4577,11 @@
     "config": "Basic / A14 / 6 cores / 4GB / 32GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
+    "current_price": 3.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4601,11 +4601,11 @@
     "config": "Basic / A14 / 6 cores / 4GB / 32GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.99,
+    "current_price": 1.1,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4625,11 +4625,11 @@
     "config": "Basic / A15 / 6 cores / 4GB / 32GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.45,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4637,11 +4637,11 @@
     "config": "Basic / A15 / 6 cores / 4GB / 32GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
+    "current_price": 3.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4661,11 +4661,11 @@
     "config": "Basic / A15 / 6 cores / 4GB / 32GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.99,
+    "current_price": 1.1,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4685,11 +4685,11 @@
     "config": "Basic / A16 / 6 cores / 4GB / 32GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.45,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4697,11 +4697,11 @@
     "config": "Basic / A16 / 6 cores / 4GB / 32GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 4.99,
+    "current_price": 3.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4721,11 +4721,11 @@
     "config": "Basic / A16 / 6 cores / 4GB / 32GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 1.99,
+    "current_price": 1.1,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4745,11 +4745,11 @@
     "config": "KVIP / A10 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.75,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4757,11 +4757,11 @@
     "config": "KVIP / A10 / 8 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 6.99,
+    "current_price": 4.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4781,11 +4781,11 @@
     "config": "KVIP / A10 / 8 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.59,
+    "current_price": 1.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4805,11 +4805,11 @@
     "config": "KVIP / A13 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.75,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4817,11 +4817,11 @@
     "config": "KVIP / A13 / 8 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 6.99,
+    "current_price": 4.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4841,11 +4841,11 @@
     "config": "KVIP / A13 / 8 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.59,
+    "current_price": 1.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4865,11 +4865,11 @@
     "config": "KVIP / A14 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.75,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4877,11 +4877,11 @@
     "config": "KVIP / A14 / 8 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 6.99,
+    "current_price": 4.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4901,11 +4901,11 @@
     "config": "KVIP / A14 / 8 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.59,
+    "current_price": 1.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4925,11 +4925,11 @@
     "config": "KVIP / A15 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.75,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4937,11 +4937,11 @@
     "config": "KVIP / A15 / 8 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 6.99,
+    "current_price": 4.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -4961,11 +4961,11 @@
     "config": "KVIP / A15 / 8 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.59,
+    "current_price": 1.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4985,11 +4985,11 @@
     "config": "KVIP / A16 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.75,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -4997,11 +4997,11 @@
     "config": "KVIP / A16 / 8 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 6.99,
+    "current_price": 4.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5021,11 +5021,11 @@
     "config": "KVIP / A16 / 8 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.59,
+    "current_price": 1.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5045,11 +5045,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 256GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 2.99,
+    "current_price": 2.07,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5057,11 +5057,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 256GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 24.99,
+    "current_price": 18.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5081,11 +5081,11 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 256GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 5.99,
+    "current_price": 4.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5105,11 +5105,11 @@
     "config": "MVIP / A13 / 8 cores / 16GB / 256GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 2.99,
+    "current_price": 2.07,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5117,11 +5117,11 @@
     "config": "MVIP / A13 / 8 cores / 16GB / 256GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 24.99,
+    "current_price": 18.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5141,11 +5141,11 @@
     "config": "MVIP / A13 / 8 cores / 16GB / 256GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 5.99,
+    "current_price": 4.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5165,11 +5165,11 @@
     "config": "MVIP / A14 / 8 cores / 16GB / 256GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 2.99,
+    "current_price": 2.07,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5177,11 +5177,11 @@
     "config": "MVIP / A14 / 8 cores / 16GB / 256GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 24.99,
+    "current_price": 18.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5201,11 +5201,11 @@
     "config": "MVIP / A14 / 8 cores / 16GB / 256GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 5.99,
+    "current_price": 4.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5225,11 +5225,11 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 256GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 2.99,
+    "current_price": 2.07,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5237,11 +5237,11 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 256GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 24.99,
+    "current_price": 18.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5261,11 +5261,11 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 256GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 5.99,
+    "current_price": 4.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5285,11 +5285,11 @@
     "config": "MVIP / A16 / 8 cores / 16GB / 256GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 2.99,
+    "current_price": 2.07,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5297,11 +5297,11 @@
     "config": "MVIP / A16 / 8 cores / 16GB / 256GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 24.99,
+    "current_price": 18.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5321,11 +5321,11 @@
     "config": "MVIP / A16 / 8 cores / 16GB / 256GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 5.99,
+    "current_price": 4.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5345,11 +5345,11 @@
     "config": "SVIP / A10 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5357,11 +5357,11 @@
     "config": "SVIP / A10 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.99,
+    "current_price": 7.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5381,11 +5381,11 @@
     "config": "SVIP / A10 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
+    "current_price": 2.7,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5405,11 +5405,11 @@
     "config": "SVIP / A13 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5417,11 +5417,11 @@
     "config": "SVIP / A13 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.99,
+    "current_price": 7.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5441,11 +5441,11 @@
     "config": "SVIP / A13 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
+    "current_price": 2.7,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5465,11 +5465,11 @@
     "config": "SVIP / A14 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5477,11 +5477,11 @@
     "config": "SVIP / A14 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.99,
+    "current_price": 7.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5501,11 +5501,11 @@
     "config": "SVIP / A14 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
+    "current_price": 2.7,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5525,11 +5525,11 @@
     "config": "SVIP / A15 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5537,11 +5537,11 @@
     "config": "SVIP / A15 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.99,
+    "current_price": 7.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5561,11 +5561,11 @@
     "config": "SVIP / A15 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
+    "current_price": 2.7,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5585,11 +5585,11 @@
     "config": "SVIP / A16 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.9,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5597,11 +5597,11 @@
     "config": "SVIP / A16 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 10.99,
+    "current_price": 7.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5621,11 +5621,11 @@
     "config": "SVIP / A16 / 8 cores / 5.3GB / 85GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 3.99,
+    "current_price": 2.7,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5645,11 +5645,11 @@
     "config": "VIP / A10 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5669,11 +5669,11 @@
     "config": "VIP / A10 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
+    "current_price": 3.6,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5693,11 +5693,11 @@
     "config": "VIP / A10 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.39,
+    "current_price": 1.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5717,11 +5717,11 @@
     "config": "VIP / A13 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5741,11 +5741,11 @@
     "config": "VIP / A13 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
+    "current_price": 3.6,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5765,11 +5765,11 @@
     "config": "VIP / A13 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.39,
+    "current_price": 1.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5789,11 +5789,11 @@
     "config": "VIP / A14 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5813,11 +5813,11 @@
     "config": "VIP / A14 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
+    "current_price": 3.6,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5837,11 +5837,11 @@
     "config": "VIP / A14 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.39,
+    "current_price": 1.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5861,11 +5861,11 @@
     "config": "VIP / A15 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5885,11 +5885,11 @@
     "config": "VIP / A15 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
+    "current_price": 3.6,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5909,11 +5909,11 @@
     "config": "VIP / A15 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.39,
+    "current_price": 1.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5933,11 +5933,11 @@
     "config": "VIP / A16 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.0,
+    "current_price": 0.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -5957,11 +5957,11 @@
     "config": "VIP / A16 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 5.99,
+    "current_price": 3.6,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -5981,11 +5981,11 @@
     "config": "VIP / A16 / 8 cores / 3.2GB / 50GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.39,
+    "current_price": 1.2,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6005,11 +6005,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.99,
+    "current_price": 1.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6017,11 +6017,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 15.99,
+    "current_price": 10.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -6041,11 +6041,11 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 4.99,
+    "current_price": 3.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6065,11 +6065,11 @@
     "config": "XVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.99,
+    "current_price": 1.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6077,11 +6077,11 @@
     "config": "XVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 15.99,
+    "current_price": 10.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -6101,11 +6101,11 @@
     "config": "XVIP / A13 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 4.99,
+    "current_price": 3.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6125,11 +6125,11 @@
     "config": "XVIP / A14 / 8 cores / 8GB / 128GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.99,
+    "current_price": 1.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6137,11 +6137,11 @@
     "config": "XVIP / A14 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 15.99,
+    "current_price": 10.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -6161,11 +6161,11 @@
     "config": "XVIP / A14 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 4.99,
+    "current_price": 3.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6185,11 +6185,11 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 128GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.99,
+    "current_price": 1.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6197,11 +6197,11 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 15.99,
+    "current_price": 10.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -6221,11 +6221,11 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 4.99,
+    "current_price": 3.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6245,11 +6245,11 @@
     "config": "XVIP / A16 / 8 cores / 8GB / 128GB",
     "duration_bucket": 1,
     "duration_display": "1天",
-    "current_price": 1.99,
+    "current_price": 1.5,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 1 Extra Day for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
@@ -6257,11 +6257,11 @@
     "config": "XVIP / A16 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 15.99,
+    "current_price": 10.8,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Limited Time Offer",
     "promotion_text_changed": false,
-    "reason_code": "price_unchanged"
+    "reason_code": "abnormal_price_change"
   },
   {
     "platform": "VSPhone",
@@ -6281,11 +6281,11 @@
     "config": "XVIP / A16 / 8 cores / 8GB / 128GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 4.99,
+    "current_price": 3.99,
     "current_promotion_text": "Limited Time Offer",
     "previous_promotion_text": "Get 3 Extra Days for New Device",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_down"
   },
   {
     "platform": "VSPhone",
